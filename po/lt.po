@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-03-29 07:08+0200\n"
+"POT-Creation-Date: 2011-04-12 14:24+0200\n"
 "PO-Revision-Date: 2011-03-29 07:08+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: lt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: lt\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
 "%100<10 || n%100>=20) ? 1 : 2);\n"
 
@@ -889,7 +889,7 @@ msgstr ""
 #. [unit]: id=Elycla, type=Arch Mage
 #. [side]: type=Arch Mage, id=Elycla
 #. [side]: type=Spectre, id=Elycla
-#: Tale_of_a_Mage/scenarios/06_Consequences.cfg:78
+#: Tale_of_a_Mage/scenarios/06_Consequences.cfg:75
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:63
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:91
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:112
@@ -2390,7 +2390,7 @@ msgstr ""
 msgid "Oy! Catch him, he getting away!"
 msgstr ""
 
-#. [scenario]: id=06_Consequences, (type=Apprentice Mage) (type) (Mage)}, (type=Mage)}, (type=Advanced Apprentice Mage) (type) (Advanced Mage)}, type=Advanced Mage
+#. [scenario]: id=06_Consequences
 #: Tale_of_a_Mage/scenarios/06_Consequences.cfg:3
 msgid "Consequences"
 msgstr ""
@@ -2443,61 +2443,61 @@ msgid "Then one day..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Tale_of_a_Mage/scenarios/06_Consequences.cfg:73
+#: Tale_of_a_Mage/scenarios/06_Consequences.cfg:70
 msgid "Isle of Alduin, -552 YW"
 msgstr ""
 
 #. [message]: speaker=Elycla
-#: Tale_of_a_Mage/scenarios/06_Consequences.cfg:86
+#: Tale_of_a_Mage/scenarios/06_Consequences.cfg:83
 msgid "Pardon me, Dillon, but do you have a moment?"
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: Tale_of_a_Mage/scenarios/06_Consequences.cfg:90
+#: Tale_of_a_Mage/scenarios/06_Consequences.cfg:87
 msgid "Yes, what do you need."
 msgstr ""
 
 #. [message]: speaker=Elycla
-#: Tale_of_a_Mage/scenarios/06_Consequences.cfg:94
+#: Tale_of_a_Mage/scenarios/06_Consequences.cfg:91
 msgid ""
 "The Headmaster is traveling to the city of Elensafar. There are a group of "
 "children that wish to attend the academy."
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: Tale_of_a_Mage/scenarios/06_Consequences.cfg:98
+#: Tale_of_a_Mage/scenarios/06_Consequences.cfg:95
 msgid "That's great!"
 msgstr ""
 
 #. [message]: speaker=Elycla
-#: Tale_of_a_Mage/scenarios/06_Consequences.cfg:102
+#: Tale_of_a_Mage/scenarios/06_Consequences.cfg:99
 msgid "He is also asked Leogwyn and me to accompany him."
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: Tale_of_a_Mage/scenarios/06_Consequences.cfg:106
+#: Tale_of_a_Mage/scenarios/06_Consequences.cfg:103
 msgid "I see."
 msgstr ""
 
 #. [message]: speaker=Elycla
-#: Tale_of_a_Mage/scenarios/06_Consequences.cfg:110
+#: Tale_of_a_Mage/scenarios/06_Consequences.cfg:107
 msgid "He was also wondering if you would come."
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: Tale_of_a_Mage/scenarios/06_Consequences.cfg:114
+#: Tale_of_a_Mage/scenarios/06_Consequences.cfg:111
 msgid ""
 "Up to Elensafar? Yes, I could do that. I need to get off this island for a "
 "while anyway."
 msgstr ""
 
 #. [message]: speaker=Elycla
-#: Tale_of_a_Mage/scenarios/06_Consequences.cfg:118
+#: Tale_of_a_Mage/scenarios/06_Consequences.cfg:115
 msgid "Very well, meet us at the dock, in two days time."
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: Tale_of_a_Mage/scenarios/06_Consequences.cfg:122
+#: Tale_of_a_Mage/scenarios/06_Consequences.cfg:119
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:358
 msgid "I understand."
 msgstr ""
@@ -6058,45 +6058,50 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/epilogue.cfg:27
 msgid ""
 "Thus ends the tale of the Icestone. Mal-Caryn was gone forever, and with him "
-"Dillon."
+"Dillon. Many years have passed since that day, and the people of Wesnoth "
+"have done their best to repair much of the damage of the war."
 msgstr ""
 
 #. [part]
 #: Tale_of_a_Mage/scenarios/epilogue.cfg:30
 msgid ""
-"Many years have passed since that day, and the people of Wesnoth have done "
-"their best to repair much of the damage of the war."
+"The loss of Prince Arand was a grievous blow to us. With the recent passing "
+"of the King and Queen, this has left the new Queen Ana'sar to rule in their "
+"stead. I feel she has been doing her duty splendedly. Eldaric has since "
+"voyaged into the west in search of the Green Isle, and we have not heard "
+"back from him. I hope no ill has befallen him."
 msgstr ""
 
 #. [part]
 #: Tale_of_a_Mage/scenarios/epilogue.cfg:33
 msgid ""
-"The loss of Prince Arand was a grievous blow to us. With the recent passing "
-"of the King and Queen, this has left the new Queen Ana'sar to rule in their "
-"stead. I feel she has been doing her duty splendedly."
+"I, Lhyron, was offered the position of Head Advisor to the Queen, but I was "
+"forced to decline. I was never cut out for that sort of work, and I can only "
+"hope that, with time, another great sage will emerge."
 msgstr ""
 
 #. [part]
 #: Tale_of_a_Mage/scenarios/epilogue.cfg:36
 msgid ""
-"Eldaric has since voyaged into the west in search of the Green Isle, and we "
-"have not heard back from him. I hope no ill has befallen him."
+"I would like to say we are at the beginning of a new age of prosperity, but "
+"my friend Galdren fears it is not so. Alas, he has foretold this is merely "
+"the calm before the storm. For once, I pray the seer is wrong."
 msgstr ""
 
 #. [part]
 #: Tale_of_a_Mage/scenarios/epilogue.cfg:39
 msgid ""
-"I, Lhyron, was offered the position of Head Advisor to the Queen, but I was "
-"forced to decline. I was never cut out for duty, and I can only hope with "
-"time another great mage will emerge."
+"But if this is true, and the story of the Icestone is but a prelude to an "
+"even greater story, then it is all the more urgent that this story should be "
+"told."
 msgstr ""
 
 #. [part]
 #: Tale_of_a_Mage/scenarios/epilogue.cfg:42
 msgid ""
-"Instead I have become the royal historian. I thereby take it upon myself to "
-"write an account of this tale, the tale of the Icestone, and of the Lich-"
-"Lord, and of the greatest man whom I have ever known."
+"I have become the royal historian. I thereby take it upon myself to write an "
+"account of this tale, the tale of the Icestone, and of the Lich-Lord, and of "
+"the greatest man whom I have ever known."
 msgstr ""
 
 #. [endlevel]

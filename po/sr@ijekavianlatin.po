@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-04-12 14:24+0200\n"
+"POT-Creation-Date: 2012-02-26 17:23+0100\n"
 "PO-Revision-Date: 2011-03-29 07:08+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -49,7 +49,7 @@ msgid "Great Mage"
 msgstr ""
 
 #. [campaign]: id=tale_mage
-#: Tale_of_a_Mage/_main.cfg:22
+#: Tale_of_a_Mage/_main.cfg:19
 msgid ""
 "The young boy Dillon only wanted to live his life in peace. After his "
 "village is destroyed by bandits however, he is forced to throw his lot with "
@@ -101,40 +101,40 @@ msgid "Townsquare"
 msgstr ""
 
 #. [side]: type=Advanced Mage, id=Dillon
-#. [side]: type=Advanced Apprentice Mage, id=Dillon
 #. [side]: type=Peasant Child, id=Dillon
-#: Tale_of_a_Mage/scenarios/16_The_Elves.cfg:18
-#: Tale_of_a_Mage/scenarios/06_Consequences.cfg:18
-#: Tale_of_a_Mage/scenarios/10-2_Uneasy_Tidings.cfg:18
-#: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:25
-#: Tale_of_a_Mage/scenarios/00_3_Council.cfg:18
-#: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:18
-#: Tale_of_a_Mage/scenarios/01_First_Try.cfg:17
-#: Tale_of_a_Mage/scenarios/12_Escape.cfg:18
+#. [side]: type=Advanced Apprentice Mage, id=Dillon
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:18
-#: Tale_of_a_Mage/scenarios/20_Shadows.cfg:18
-#: Tale_of_a_Mage/scenarios/10-1_A_Royal_Greeting.cfg:18
-#: Tale_of_a_Mage/scenarios/03-2_Choices.cfg:18
-#: Tale_of_a_Mage/scenarios/15_A_Daring_Rescue.cfg:18
-#: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:18
-#: Tale_of_a_Mage/scenarios/11-1_The_Investigation.cfg:18
-#: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:18
-#: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:18
-#: Tale_of_a_Mage/scenarios/19_The_Great_Council.cfg:18
-#: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:18
-#: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:17
-#: Tale_of_a_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:18
-#: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:18
 #: Tale_of_a_Mage/scenarios/18_Orcish_Supremacy.cfg:18
-#: Tale_of_a_Mage/scenarios/13_Old_Friends.cfg:18
-#: Tale_of_a_Mage/scenarios/08_A_Cry_For_Help.cfg:18
-#: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:18
-#: Tale_of_a_Mage/scenarios/14_Weldyn_Down.cfg:18
-#: Tale_of_a_Mage/scenarios/00_2_Adventure.cfg:18
-#: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:18
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:18
+#: Tale_of_a_Mage/scenarios/00_3_Council.cfg:18
+#: Tale_of_a_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:18
+#: Tale_of_a_Mage/scenarios/03-2_Choices.cfg:18
 #: Tale_of_a_Mage/scenarios/10-3_Undead_Threat.cfg:18
+#: Tale_of_a_Mage/scenarios/08_A_Cry_For_Help.cfg:18
+#: Tale_of_a_Mage/scenarios/00_2_Adventure.cfg:18
+#: Tale_of_a_Mage/scenarios/11-1_The_Investigation.cfg:18
+#: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:18
+#: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:18
+#: Tale_of_a_Mage/scenarios/15_A_Daring_Rescue.cfg:18
+#: Tale_of_a_Mage/scenarios/06_Consequences.cfg:18
+#: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:17
+#: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:18
+#: Tale_of_a_Mage/scenarios/13_Old_Friends.cfg:18
+#: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:18
+#: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:18
+#: Tale_of_a_Mage/scenarios/12_Escape.cfg:18
+#: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:18
+#: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:18
+#: Tale_of_a_Mage/scenarios/19_The_Great_Council.cfg:18
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:18
+#: Tale_of_a_Mage/scenarios/10-2_Uneasy_Tidings.cfg:18
+#: Tale_of_a_Mage/scenarios/14_Weldyn_Down.cfg:18
+#: Tale_of_a_Mage/scenarios/16_The_Elves.cfg:18
+#: Tale_of_a_Mage/scenarios/20_Shadows.cfg:18
+#: Tale_of_a_Mage/scenarios/01_First_Try.cfg:17
+#: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:18
+#: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:25
+#: Tale_of_a_Mage/scenarios/10-1_A_Royal_Greeting.cfg:18
 msgid "Dillon"
 msgstr ""
 
@@ -151,8 +151,8 @@ msgstr ""
 #. [side]: type=Assassin, id=Caryn
 #. [unit]: type=Ghost, id=Caryn
 #. [unit]: type=Lich, id=Caryn
-#: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:87
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:76
+#: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:87
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:270
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:506
 msgid "Caryn"
@@ -208,15 +208,15 @@ msgid ""
 "Gilder should be just up the path!"
 msgstr ""
 
+#. [message]: speaker=Dillon
 #. [message]: speaker=unit
 #. [message]: speaker=Jamarn
-#. [message]: speaker=Dillon
+#: Tale_of_a_Mage/scenarios/10-3_Undead_Threat.cfg:191
+#: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:165
+#: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:394
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:246
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:287
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:636
-#: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:165
-#: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:394
-#: Tale_of_a_Mage/scenarios/10-3_Undead_Threat.cfg:191
 msgid "But..."
 msgstr ""
 
@@ -231,31 +231,31 @@ msgid "Move Dillon to the Go Here icon in the north-east corner of the map."
 msgstr ""
 
 #. [objective]: condition=lose
-#: Tale_of_a_Mage/scenarios/12_Escape.cfg:69
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:80
-#: Tale_of_a_Mage/scenarios/20_Shadows.cfg:142
-#: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:147
-#: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:68
+#: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:345
 #: Tale_of_a_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:111
+#: Tale_of_a_Mage/scenarios/00_2_Adventure.cfg:83
+#: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:147
 #: Tale_of_a_Mage/scenarios/13_Old_Friends.cfg:65
 #: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:183
 #: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:415
-#: Tale_of_a_Mage/scenarios/00_2_Adventure.cfg:83
-#: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:345
+#: Tale_of_a_Mage/scenarios/12_Escape.cfg:69
+#: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:68
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:147
+#: Tale_of_a_Mage/scenarios/20_Shadows.cfg:142
 msgid "Death of Dillon"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:185
-#: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:216
 #: Tale_of_a_Mage/scenarios/00_3_Council.cfg:56
-#: Tale_of_a_Mage/scenarios/01_First_Try.cfg:145
-#: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:155
-#: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:100
-#: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:187
 #: Tale_of_a_Mage/scenarios/00_2_Adventure.cfg:91
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:134
+#: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:187
+#: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:100
+#: Tale_of_a_Mage/scenarios/01_First_Try.cfg:145
+#: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:155
+#: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:185
+#: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:216
 msgid "Turns run out"
 msgstr ""
 
@@ -364,11 +364,11 @@ msgid "Dillon!"
 msgstr ""
 
 #. [message]: speaker=Morien
-#. [message]: speaker=Mal-Caryn
 #. [message]: speaker=Olaf
+#. [message]: speaker=Mal-Caryn
 #: Tale_of_a_Mage/utils/deaths.cfg:187 Tale_of_a_Mage/utils/deaths.cfg:317
-#: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:229
 #: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:528
+#: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:229
 msgid "No!"
 msgstr ""
 
@@ -424,11 +424,11 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:84
-#: Tale_of_a_Mage/scenarios/20_Shadows.cfg:146
-#: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:151
-#: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:72
-#: Tale_of_a_Mage/scenarios/13_Old_Friends.cfg:69
 #: Tale_of_a_Mage/scenarios/00_2_Adventure.cfg:87
+#: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:151
+#: Tale_of_a_Mage/scenarios/13_Old_Friends.cfg:69
+#: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:72
+#: Tale_of_a_Mage/scenarios/20_Shadows.cfg:146
 msgid "Death of Lhyron"
 msgstr ""
 
@@ -462,21 +462,21 @@ msgstr ""
 msgid "Well...you see, both my parents were slaughtered by those cowards!"
 msgstr ""
 
-#. [message]: speaker=Dillon
-#. [message]: speaker=Mal-Caryn
 #. [message]: speaker=Durwin
-#. [message]: speaker=Arand
-#. [message]: speaker=Marcos
 #. [message]: speaker=Eruurk
-#: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:280
-#: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:310
-#: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:328
+#. [message]: speaker=Dillon
+#. [message]: speaker=Arand
+#. [message]: speaker=Mal-Caryn
+#. [message]: speaker=Marcos
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:268
-#: Tale_of_a_Mage/scenarios/15_A_Daring_Rescue.cfg:154
-#: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:200
-#: Tale_of_a_Mage/scenarios/23_1_Tyrant.cfg:172
 #: Tale_of_a_Mage/scenarios/18_Orcish_Supremacy.cfg:354
 #: Tale_of_a_Mage/scenarios/00_2_Adventure.cfg:130
+#: Tale_of_a_Mage/scenarios/15_A_Daring_Rescue.cfg:154
+#: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:310
+#: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:328
+#: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:200
+#: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:280
+#: Tale_of_a_Mage/scenarios/23_1_Tyrant.cfg:172
 msgid "..."
 msgstr ""
 
@@ -864,36 +864,36 @@ msgstr ""
 msgid "First Try"
 msgstr ""
 
-#. [side]: type=Advanced Apprentice Mage, id=Slinian
+#. [side]: type=Necromancer, id=Slinian
 #. [unit]: type=Necromancer, id=Slinian
 #. [unit]: id=Slinian, type=Advanced Apprentice Mage
-#. [side]: type=Necromancer, id=Slinian
-#: Tale_of_a_Mage/scenarios/01_First_Try.cfg:35
+#. [side]: type=Advanced Apprentice Mage, id=Slinian
+#: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:95
 #: Tale_of_a_Mage/scenarios/11-1_The_Investigation.cfg:120
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:63
-#: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:95
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:29
+#: Tale_of_a_Mage/scenarios/01_First_Try.cfg:35
 msgid "Slinian"
 msgstr ""
 
-#. [side]: type=Arch Mage, id=Leogwyn
-#. [side]: type=Death Knight, id=Leogwyn
 #. [unit]: id=Leogwyn, type=Arch Mage
-#: Tale_of_a_Mage/scenarios/01_First_Try.cfg:52
-#: Tale_of_a_Mage/scenarios/20_Shadows.cfg:79
-#: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:99
+#. [side]: type=Death Knight, id=Leogwyn
+#. [side]: type=Arch Mage, id=Leogwyn
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:317
+#: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:99
+#: Tale_of_a_Mage/scenarios/20_Shadows.cfg:79
+#: Tale_of_a_Mage/scenarios/01_First_Try.cfg:52
 msgid "Leogwyn"
 msgstr ""
 
 #. [unit]: id=Elycla, type=Arch Mage
-#. [side]: type=Arch Mage, id=Elycla
 #. [side]: type=Spectre, id=Elycla
-#: Tale_of_a_Mage/scenarios/06_Consequences.cfg:75
-#: Tale_of_a_Mage/scenarios/01_First_Try.cfg:63
-#: Tale_of_a_Mage/scenarios/20_Shadows.cfg:91
-#: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:112
+#. [side]: type=Arch Mage, id=Elycla
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:326
+#: Tale_of_a_Mage/scenarios/06_Consequences.cfg:75
+#: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:112
+#: Tale_of_a_Mage/scenarios/20_Shadows.cfg:91
+#: Tale_of_a_Mage/scenarios/01_First_Try.cfg:63
 msgid "Elycla"
 msgstr ""
 
@@ -932,8 +932,8 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=win
-#: Tale_of_a_Mage/scenarios/01_First_Try.cfg:141
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:92
+#: Tale_of_a_Mage/scenarios/01_First_Try.cfg:141
 msgid "Defeat Slinian"
 msgstr ""
 
@@ -949,19 +949,19 @@ msgstr ""
 
 #. [message]: speaker=Elycla
 #: Tale_of_a_Mage/utils/deaths.cfg:87
+#: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:503
+#: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:338
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:168
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:448
-#: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:338
-#: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:503
 msgid "Leogwyn!"
 msgstr ""
 
 #. [message]: speaker=Leogwyn
 #: Tale_of_a_Mage/utils/deaths.cfg:91
+#: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:507
+#: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:342
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:172
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:452
-#: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:342
-#: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:507
 msgid "My apologies."
 msgstr ""
 
@@ -1066,8 +1066,8 @@ msgid "Dillon's team wins!"
 msgstr ""
 
 #. [message]: speaker=Jamarn
-#: Tale_of_a_Mage/scenarios/01_First_Try.cfg:421
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:354
+#: Tale_of_a_Mage/scenarios/01_First_Try.cfg:421
 msgid "Noooo!"
 msgstr ""
 
@@ -1574,11 +1574,11 @@ msgid ""
 "us unite against these blasted ghosts! Then we shall discuss this."
 msgstr ""
 
-#. [message]: speaker=Dillon
 #. [message]: speaker=Headmaster
-#: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:288
+#. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:184
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:421
+#: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:288
 msgid "Very well."
 msgstr ""
 
@@ -2497,8 +2497,8 @@ msgid "Very well, meet us at the dock, in two days time."
 msgstr ""
 
 #. [message]: speaker=Dillon
-#: Tale_of_a_Mage/scenarios/06_Consequences.cfg:119
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:358
+#: Tale_of_a_Mage/scenarios/06_Consequences.cfg:119
 msgid "I understand."
 msgstr ""
 
@@ -2508,16 +2508,16 @@ msgid "Old Enemies"
 msgstr ""
 
 #. [side]: type=Great Mage, id=Headmaster
-#: Tale_of_a_Mage/scenarios/08_A_Cry_For_Help.cfg:30
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:30
+#: Tale_of_a_Mage/scenarios/08_A_Cry_For_Help.cfg:30
 msgid "The Headmaster"
 msgstr ""
 
-#. [unit]: type=Grand Knight, id=Morien
 #. [side]: type=Grand Knight, id=Morien
+#. [unit]: type=Grand Knight, id=Morien
+#: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:74
 #: Tale_of_a_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:28
 #: Tale_of_a_Mage/scenarios/08_A_Cry_For_Help.cfg:42
-#: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:74
 msgid "Lord Morien"
 msgstr ""
 
@@ -2655,8 +2655,8 @@ msgid "Defeat Slinian(Bonus)"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Tale_of_a_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:115
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:349
+#: Tale_of_a_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:115
 msgid "Death of Lord Morien"
 msgstr ""
 
@@ -2776,11 +2776,11 @@ msgstr ""
 msgid "Nooooo!"
 msgstr ""
 
-#. [message]: speaker=Dillon
 #. [message]: speaker=Headmaster
+#. [message]: speaker=Dillon
+#: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:539
 #: Tale_of_a_Mage/scenarios/15_A_Daring_Rescue.cfg:218
 #: Tale_of_a_Mage/scenarios/14_Weldyn_Down.cfg:105
-#: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:539
 msgid "Oh..."
 msgstr ""
 
@@ -2918,14 +2918,14 @@ msgstr ""
 msgid "The Prince Of Wesnoth"
 msgstr ""
 
-#. [unit]: type=Prince, id=Arand
 #. [side]: type=Prince, id=Arand
-#: Tale_of_a_Mage/scenarios/10-2_Uneasy_Tidings.cfg:44
-#: Tale_of_a_Mage/scenarios/12_Escape.cfg:30
-#: Tale_of_a_Mage/scenarios/10-1_A_Royal_Greeting.cfg:44
-#: Tale_of_a_Mage/scenarios/11-1_The_Investigation.cfg:29
+#. [unit]: type=Prince, id=Arand
 #: Tale_of_a_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:43
 #: Tale_of_a_Mage/scenarios/10-3_Undead_Threat.cfg:44
+#: Tale_of_a_Mage/scenarios/11-1_The_Investigation.cfg:29
+#: Tale_of_a_Mage/scenarios/12_Escape.cfg:30
+#: Tale_of_a_Mage/scenarios/10-2_Uneasy_Tidings.cfg:44
+#: Tale_of_a_Mage/scenarios/10-1_A_Royal_Greeting.cfg:44
 msgid "Arand II"
 msgstr ""
 
@@ -2945,13 +2945,13 @@ msgid "Rescue the Prince"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Tale_of_a_Mage/scenarios/12_Escape.cfg:73
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:88
-#: Tale_of_a_Mage/scenarios/20_Shadows.cfg:150
-#: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:155
-#: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:76
 #: Tale_of_a_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:119
+#: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:155
 #: Tale_of_a_Mage/scenarios/13_Old_Friends.cfg:73
+#: Tale_of_a_Mage/scenarios/12_Escape.cfg:73
+#: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:76
+#: Tale_of_a_Mage/scenarios/20_Shadows.cfg:150
 msgid "Death of Arand II"
 msgstr ""
 
@@ -2972,10 +2972,10 @@ msgid ""
 "they can attack!"
 msgstr ""
 
-#. [message]: speaker=Gladoc
 #. [message]: speaker=Ryan
-#: Tale_of_a_Mage/scenarios/19_The_Great_Council.cfg:146
+#. [message]: speaker=Gladoc
 #: Tale_of_a_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:161
+#: Tale_of_a_Mage/scenarios/19_The_Great_Council.cfg:146
 msgid "Aye!"
 msgstr ""
 
@@ -3055,31 +3055,31 @@ msgid "A Royal Greeting"
 msgstr ""
 
 #. [side]: type=King, id=Konrad
-#: Tale_of_a_Mage/scenarios/16_The_Elves.cfg:30
-#: Tale_of_a_Mage/scenarios/10-2_Uneasy_Tidings.cfg:29
-#: Tale_of_a_Mage/scenarios/10-1_A_Royal_Greeting.cfg:29
-#: Tale_of_a_Mage/scenarios/15_A_Daring_Rescue.cfg:30
-#: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:30
 #: Tale_of_a_Mage/scenarios/10-3_Undead_Threat.cfg:29
+#: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:30
+#: Tale_of_a_Mage/scenarios/15_A_Daring_Rescue.cfg:30
+#: Tale_of_a_Mage/scenarios/10-2_Uneasy_Tidings.cfg:29
+#: Tale_of_a_Mage/scenarios/16_The_Elves.cfg:30
+#: Tale_of_a_Mage/scenarios/10-1_A_Royal_Greeting.cfg:29
 msgid "Konrad"
 msgstr ""
 
 #. [unit]: type=Queen, id=Li'sar
-#: Tale_of_a_Mage/scenarios/16_The_Elves.cfg:52
-#: Tale_of_a_Mage/scenarios/10-2_Uneasy_Tidings.cfg:37
-#: Tale_of_a_Mage/scenarios/10-1_A_Royal_Greeting.cfg:37
-#: Tale_of_a_Mage/scenarios/15_A_Daring_Rescue.cfg:48
-#: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:44
 #: Tale_of_a_Mage/scenarios/10-3_Undead_Threat.cfg:37
+#: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:44
+#: Tale_of_a_Mage/scenarios/15_A_Daring_Rescue.cfg:48
+#: Tale_of_a_Mage/scenarios/10-2_Uneasy_Tidings.cfg:37
+#: Tale_of_a_Mage/scenarios/16_The_Elves.cfg:52
+#: Tale_of_a_Mage/scenarios/10-1_A_Royal_Greeting.cfg:37
 msgid "Li'sar"
 msgstr ""
 
 #. [unit]: type=Junior Prince, id=Eldaric
-#: Tale_of_a_Mage/scenarios/16_The_Elves.cfg:60
-#: Tale_of_a_Mage/scenarios/10-2_Uneasy_Tidings.cfg:52
-#: Tale_of_a_Mage/scenarios/10-1_A_Royal_Greeting.cfg:52
-#: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:57
 #: Tale_of_a_Mage/scenarios/10-3_Undead_Threat.cfg:52
+#: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:57
+#: Tale_of_a_Mage/scenarios/10-2_Uneasy_Tidings.cfg:52
+#: Tale_of_a_Mage/scenarios/16_The_Elves.cfg:60
+#: Tale_of_a_Mage/scenarios/10-1_A_Royal_Greeting.cfg:52
 msgid "Eldaric V"
 msgstr ""
 
@@ -3318,10 +3318,10 @@ msgstr ""
 
 #. [unit]: type=Junior Princess, id=Ana'sar
 #. [message]: speaker=narrator
-#: Tale_of_a_Mage/scenarios/16_The_Elves.cfg:69
-#: Tale_of_a_Mage/scenarios/10-2_Uneasy_Tidings.cfg:201
-#: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:137
 #: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:71
+#: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:137
+#: Tale_of_a_Mage/scenarios/10-2_Uneasy_Tidings.cfg:201
+#: Tale_of_a_Mage/scenarios/16_The_Elves.cfg:69
 msgid "Ana'sar"
 msgstr ""
 
@@ -4521,10 +4521,10 @@ msgid "The Elves"
 msgstr ""
 
 #. [side]: type=Elvish Marshal, id=Galdrier
+#: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:87
+#: Tale_of_a_Mage/scenarios/19_The_Great_Council.cfg:50
 #: Tale_of_a_Mage/scenarios/16_The_Elves.cfg:80
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:55
-#: Tale_of_a_Mage/scenarios/19_The_Great_Council.cfg:50
-#: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:87
 msgid "Galdrier"
 msgstr ""
 
@@ -4621,9 +4621,9 @@ msgid "Battle For The Swamps"
 msgstr ""
 
 #. [side]: type=Saurian Flanker, id=Xirasz
-#: Tale_of_a_Mage/scenarios/20_Shadows.cfg:67
-#: Tale_of_a_Mage/scenarios/19_The_Great_Council.cfg:60
 #: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:99
+#: Tale_of_a_Mage/scenarios/19_The_Great_Council.cfg:60
+#: Tale_of_a_Mage/scenarios/20_Shadows.cfg:67
 msgid "Xirasz"
 msgstr ""
 
@@ -4638,9 +4638,9 @@ msgid "Defeat Xirasz"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:159
 #: Tale_of_a_Mage/scenarios/18_Orcish_Supremacy.cfg:73
 #: Tale_of_a_Mage/scenarios/18_Orcish_Supremacy.cfg:247
+#: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:159
 msgid "Death of any hero"
 msgstr ""
 
@@ -4783,10 +4783,10 @@ msgstr ""
 
 #. [side]: type=Orcish Sovereign, id=Eruurk
 #. [unit]: id=Eruurk, type=Orcish Sovereign
-#: Tale_of_a_Mage/scenarios/20_Shadows.cfg:42
-#: Tale_of_a_Mage/scenarios/19_The_Great_Council.cfg:39
 #: Tale_of_a_Mage/scenarios/18_Orcish_Supremacy.cfg:31
 #: Tale_of_a_Mage/scenarios/18_Orcish_Supremacy.cfg:320
+#: Tale_of_a_Mage/scenarios/19_The_Great_Council.cfg:39
+#: Tale_of_a_Mage/scenarios/20_Shadows.cfg:42
 msgid "Eruurk the Mighty"
 msgstr ""
 
@@ -4815,7 +4815,7 @@ msgid "Force the orcish leader's surrender"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Tale_of_a_Mage/scenarios/18_Orcish_Supremacy.cfg:120
+#: Tale_of_a_Mage/scenarios/18_Orcish_Supremacy.cfg:119
 msgid ""
 "Northlands, -554 YW\n"
 "Dillon arrives in the northlands with his head generals."
@@ -4979,18 +4979,18 @@ msgid "The Great Council"
 msgstr ""
 
 #. [side]: type=General, id=Rhubry
-#: Tale_of_a_Mage/scenarios/20_Shadows.cfg:30
 #: Tale_of_a_Mage/scenarios/19_The_Great_Council.cfg:29
+#: Tale_of_a_Mage/scenarios/20_Shadows.cfg:30
 msgid "Rhubry"
 msgstr ""
 
 #. [unit]: type=Fugitive, id=Gladoc
-#. [unit]: id=Gladoc, type=Fugitive
 #. [side]: type=Fugitive, id=Gladoc
+#. [unit]: id=Gladoc, type=Fugitive
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:139
-#: Tale_of_a_Mage/scenarios/20_Shadows.cfg:130
-#: Tale_of_a_Mage/scenarios/19_The_Great_Council.cfg:70
 #: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:107
+#: Tale_of_a_Mage/scenarios/19_The_Great_Council.cfg:70
+#: Tale_of_a_Mage/scenarios/20_Shadows.cfg:130
 msgid "Gladoc"
 msgstr ""
 
@@ -5101,32 +5101,32 @@ msgstr ""
 
 #. [side]: type=Doom Lich, id=Mal-Caryn
 #. [unit]: id=Mal-Caryn, type=Doom Lich
+#: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:123
 #: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:29
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:115
-#: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:123
 #: Tale_of_a_Mage/scenarios/23_1_Tyrant.cfg:164
 msgid "Mal-Caryn"
 msgstr ""
 
 #. [objective]: condition=win
-#: Tale_of_a_Mage/scenarios/20_Shadows.cfg:138
 #: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:64
+#: Tale_of_a_Mage/scenarios/20_Shadows.cfg:138
 msgid "Defeat Mal-Caryn"
 msgstr ""
 
 #. [objective]: condition=lose
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:92
-#: Tale_of_a_Mage/scenarios/20_Shadows.cfg:154
 #: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:159
 #: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:80
+#: Tale_of_a_Mage/scenarios/20_Shadows.cfg:154
 msgid "Death of Ana'sar"
 msgstr ""
 
 #. [objective]: condition=lose
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:96
-#: Tale_of_a_Mage/scenarios/20_Shadows.cfg:158
 #: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:163
 #: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:84
+#: Tale_of_a_Mage/scenarios/20_Shadows.cfg:158
 msgid "Death of Eldaric"
 msgstr ""
 
@@ -5833,10 +5833,10 @@ msgstr ""
 msgid "The Last Battle"
 msgstr ""
 
-#. [unit]: type=Lich, id=Squidget
 #. [side]: type=Lich, id=Squidget
-#: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:57
+#. [unit]: type=Lich, id=Squidget
 #: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:111
+#: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:57
 msgid "Mal-Poffin"
 msgstr ""
 
@@ -6105,7 +6105,7 @@ msgid ""
 msgstr ""
 
 #. [endlevel]
-#: Tale_of_a_Mage/scenarios/epilogue.cfg:52
+#: Tale_of_a_Mage/scenarios/epilogue.cfg:51
 msgid ""
 "Questions, comments, or death threats\n"
 "to Tale of a Mage@forums.wesnoth.org"
@@ -6124,18 +6124,18 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
-#: Tale_of_a_Mage/units/Peasant_Wife.cfg:100
 #: Tale_of_a_Mage/units/Mystical_Mage.cfg:33
-#: Tale_of_a_Mage/units/Apprentice_Mage.cfg:26
+#: Tale_of_a_Mage/units/Elite_Mage.cfg:30
+#: Tale_of_a_Mage/units/Peasant_Wife.cfg:100
 #: Tale_of_a_Mage/units/Legendary_Mage.cfg:33
 #: Tale_of_a_Mage/units/Advanced_Apprentice_Mage.cfg:25
-#: Tale_of_a_Mage/units/Elite_Mage.cfg:30
+#: Tale_of_a_Mage/units/Apprentice_Mage.cfg:26
 msgid "staff"
 msgstr ""
 
 #. [attack]: type=fire
-#: Tale_of_a_Mage/units/Apprentice_Mage.cfg:35
 #: Tale_of_a_Mage/units/Advanced_Apprentice_Mage.cfg:34
+#: Tale_of_a_Mage/units/Apprentice_Mage.cfg:35
 msgid "magic puff"
 msgstr ""
 
@@ -6145,7 +6145,7 @@ msgid "Apprentice Mage"
 msgstr ""
 
 #. [unit_type]: id=Apprentice Mage, race=human
-#: Tale_of_a_Mage/units/Apprentice_Mage.cfg:21
+#: Tale_of_a_Mage/units/Apprentice_Mage.cfg:19
 msgid ""
 "There are many academies dedicated to the study of magic, and the training "
 "of new mages. Apprentices must study hard if they ever hope to become magi.\n"
@@ -6173,11 +6173,12 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: Tale_of_a_Mage/units/Junior_Prince.cfg:23 Tale_of_a_Mage/units/Lord.cfg:34
+#: Tale_of_a_Mage/units/Lord.cfg:34 Tale_of_a_Mage/units/Junior_Prince.cfg:23
+#: Tale_of_a_Mage/units/Fighter.cfg:24
+#: Tale_of_a_Mage/units/Battle_Prince.cfg:35
 #: Tale_of_a_Mage/units/Commander.cfg:31
 #: Tale_of_a_Mage/units/Fighteress.cfg:24 Tale_of_a_Mage/units/King.cfg:35
-#: Tale_of_a_Mage/units/Fighter.cfg:24 Tale_of_a_Mage/units/Prince.cfg:31
-#: Tale_of_a_Mage/units/Battle_Prince.cfg:35
+#: Tale_of_a_Mage/units/Prince.cfg:31
 msgid "sword"
 msgstr ""
 
@@ -6196,11 +6197,10 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
+#: Tale_of_a_Mage/units/CommanderF.cfg:31 Tale_of_a_Mage/units/Princess.cfg:33
+#: Tale_of_a_Mage/units/Queen.cfg:35 Tale_of_a_Mage/units/Lady.cfg:33
 #: Tale_of_a_Mage/units/Battle_Princess.cfg:35
-#: Tale_of_a_Mage/units/Lady.cfg:33 Tale_of_a_Mage/units/Queen.cfg:35
-#: Tale_of_a_Mage/units/Princess.cfg:33
 #: Tale_of_a_Mage/units/Junior_Princess.cfg:23
-#: Tale_of_a_Mage/units/CommanderF.cfg:31
 msgid "saber"
 msgstr ""
 
@@ -6209,10 +6209,10 @@ msgstr ""
 msgid "Commander"
 msgstr ""
 
-#. [unit_type]: id=Commander, race=human
 #. [unit_type]: id=CommanderF, race=human
-#: Tale_of_a_Mage/units/Commander.cfg:27
+#. [unit_type]: id=Commander, race=human
 #: Tale_of_a_Mage/units/CommanderF.cfg:27
+#: Tale_of_a_Mage/units/Commander.cfg:27
 msgid ""
 "The rank of Commander is held by those who lead battle groups into combat. "
 "Possessing leadership skills, they give lower-level units in adjacent hexes "
@@ -6246,13 +6246,13 @@ msgid ""
 "of combat can waken them, though, making them far more formidable."
 msgstr ""
 
-#. [attack]: type=impact
 #. [attack]: type=fire
+#. [attack]: type=impact
 #. [attack]: type=cold
-#: Tale_of_a_Mage/units/Corpse_Walking_No_Plague.cfg:76
-#: Tale_of_a_Mage/units/Corpse_Soulless_No_Plague.cfg:75
 #: Tale_of_a_Mage/units/Fire_Ghost.cfg:46
+#: Tale_of_a_Mage/units/Corpse_Soulless_No_Plague.cfg:75
 #: Tale_of_a_Mage/units/Ice_Sprite.cfg:123
+#: Tale_of_a_Mage/units/Corpse_Walking_No_Plague.cfg:76
 msgid "touch"
 msgstr ""
 
@@ -6284,8 +6284,8 @@ msgstr ""
 
 #. [attack]: type=fire
 #: Tale_of_a_Mage/units/Mystical_Mage.cfg:42
-#: Tale_of_a_Mage/units/Legendary_Mage.cfg:42
 #: Tale_of_a_Mage/units/Elite_Mage.cfg:39
+#: Tale_of_a_Mage/units/Legendary_Mage.cfg:42
 msgid "fireball"
 msgstr ""
 
@@ -6294,9 +6294,9 @@ msgstr ""
 msgid "Fighter"
 msgstr ""
 
-#. [unit_type]: id=Fighteress, race=human
 #. [unit_type]: id=Fighter, race=human
-#: Tale_of_a_Mage/units/Fighteress.cfg:19 Tale_of_a_Mage/units/Fighter.cfg:19
+#. [unit_type]: id=Fighteress, race=human
+#: Tale_of_a_Mage/units/Fighter.cfg:19 Tale_of_a_Mage/units/Fighteress.cfg:19
 msgid ""
 "Young and brash, Fighters attack with a sword, and are vulnerable to more "
 "seasoned enemies. However they have the potential to become great warriors "
@@ -6439,7 +6439,7 @@ msgid "Mystical Mage"
 msgstr ""
 
 #. [unit_type]: id=Mystical Mage, race=human
-#: Tale_of_a_Mage/units/Mystical_Mage.cfg:20
+#: Tale_of_a_Mage/units/Mystical_Mage.cfg:18
 msgid ""
 "The art of magic is mysterious by nature. Those who take the time to fathom "
 "the world around them are often rewarded.\n"
@@ -6484,7 +6484,7 @@ msgid "Peasant Wife"
 msgstr ""
 
 #. [unit_type]: id=Peasant Wife, race=human
-#: Tale_of_a_Mage/units/Peasant_Wife.cfg:31
+#: Tale_of_a_Mage/units/Peasant_Wife.cfg:27
 msgid ""
 "While their husbands spend the day working in the fields, the women's main "
 "job is to take care of the house and raise the family.\n"
@@ -6562,14 +6562,14 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: Tale_of_a_Mage/units/Saurian_Slickskin.cfg:85
 #: Tale_of_a_Mage/units/Saurian_Swampstalker.cfg:86
+#: Tale_of_a_Mage/units/Saurian_Slickskin.cfg:85
 msgid "knife"
 msgstr ""
 
 #. [attack]: type=pierce
-#: Tale_of_a_Mage/units/Saurian_Slickskin.cfg:97
 #: Tale_of_a_Mage/units/Saurian_Swampstalker.cfg:98
+#: Tale_of_a_Mage/units/Saurian_Slickskin.cfg:97
 msgid "throwing knives"
 msgstr ""
 
@@ -6743,8 +6743,8 @@ msgid "maternal"
 msgstr ""
 
 #. [resistance]: id=maternal
-#: Tale_of_a_Mage/utils/traits_and_abilities.cfg:33
-#: Tale_of_a_Mage/utils/traits_and_abilities.cfg:35
+#: Tale_of_a_Mage/utils/traits_and_abilities.cfg:32
+#: Tale_of_a_Mage/utils/traits_and_abilities.cfg:34
 msgid ""
 "Maternal:\n"
 "This mother's resistances automatically set to 50% when defending her young."
@@ -6757,8 +6757,8 @@ msgid "swampstalk"
 msgstr ""
 
 #. [hides]: id=swampstalk
-#: Tale_of_a_Mage/utils/traits_and_abilities.cfg:49
-#: Tale_of_a_Mage/utils/traits_and_abilities.cfg:53
+#: Tale_of_a_Mage/utils/traits_and_abilities.cfg:46
+#: Tale_of_a_Mage/utils/traits_and_abilities.cfg:50
 msgid ""
 "Swampstalker:\n"
 "Due to their small frames and fragile bodies, these lizards have learned to "

@@ -3,49 +3,50 @@ msgstr ""
 "Project-Id-Version: Tale_of_a_Mage-1.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-09-04 21:03-0400\n"
-"PO-Revision-Date: 2011-03-29 07:08+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
-"Language: pt\n"
+"PO-Revision-Date: 2012-11-27 20:29+0100\n"
+"Last-Translator: trewe <sjr456@yahoo.fr>\n"
+"Language-Team: \n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: PORTUGAL\n"
 
 #. [campaign]: id=tale_mage
 #: Tale_of_a_Mage/_main.cfg:11
 msgid "Tale of a Mage"
-msgstr ""
+msgstr "Um Conto dum Mago"
 
 #. [campaign]: id=tale_mage
 #: Tale_of_a_Mage/_main.cfg:13
 msgid "ToaM"
-msgstr ""
+msgstr "UCdM"
 
 #. [campaign]: id=tale_mage
 #: Tale_of_a_Mage/_main.cfg:16
 msgid "(easiest)"
-msgstr ""
+msgstr "(mais fácil)"
 
 #. [campaign]: id=tale_mage
 #: Tale_of_a_Mage/_main.cfg:16
 msgid "Apprentice"
-msgstr ""
+msgstr "Aprendiz"
 
 #. [campaign]: id=tale_mage
 #: Tale_of_a_Mage/_main.cfg:17
 msgid "Mage"
-msgstr ""
+msgstr "Mago"
 
 #. [campaign]: id=tale_mage
 #: Tale_of_a_Mage/_main.cfg:18
 msgid "(hardest)"
-msgstr ""
+msgstr "(Difícil)"
 
 #. [campaign]: id=tale_mage
 #: Tale_of_a_Mage/_main.cfg:18
 msgid "Great Mage"
-msgstr ""
+msgstr "Grande Mago"
 
 #. [campaign]: id=tale_mage
 #: Tale_of_a_Mage/_main.cfg:19
@@ -62,22 +63,22 @@ msgstr ""
 #. [about]
 #: Tale_of_a_Mage/_main.cfg:25
 msgid "Campaign Designer"
-msgstr ""
+msgstr "Projecto de Campanha"
 
 #. [about]
 #: Tale_of_a_Mage/_main.cfg:31
 msgid "Story and Dialogue"
-msgstr ""
+msgstr "Prosa e Edições da História"
 
 #. [about]
 #: Tale_of_a_Mage/_main.cfg:43
 msgid "Testing"
-msgstr ""
+msgstr "Testes"
 
 #. [about]
 #: Tale_of_a_Mage/_main.cfg:70
 msgid "WML Help"
-msgstr ""
+msgstr "Ajuda em Código"
 
 #. [about]
 #: Tale_of_a_Mage/_main.cfg:79
@@ -86,13 +87,14 @@ msgstr ""
 
 #. [about]
 #: Tale_of_a_Mage/_main.cfg:91
+#, fuzzy
 msgid "Sprite art"
-msgstr ""
+msgstr "Arte ASCII"
 
 #. [about]
 #: Tale_of_a_Mage/_main.cfg:103
 msgid "Music and Sound"
-msgstr ""
+msgstr "Música e Som"
 
 #. [scenario]: id=00_1_Townsquare
 #: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:3
@@ -135,17 +137,17 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:18
 #: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:18
 msgid "Dillon"
-msgstr ""
+msgstr "Dillon"
 
 #. [side]: type=Peasant, id=Urlaf
 #: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:38
 msgid "Urlaf"
-msgstr ""
+msgstr "Urlaf"
 
 #. [side]: type=Peasant, id=Nickolas
 #: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:63
 msgid "Nickolas"
-msgstr ""
+msgstr "Nickolas"
 
 #. [side]: type=Assassin, id=Caryn
 #. [unit]: type=Ghost, id=Caryn
@@ -155,7 +157,7 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:270
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:506
 msgid "Caryn"
-msgstr ""
+msgstr "Caryn"
 
 #. [part]
 #: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:120
@@ -217,12 +219,12 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:636
 #: Tale_of_a_Mage/scenarios/10-3_Undead_Threat.cfg:191
 msgid "But..."
-msgstr ""
+msgstr "Mas..."
 
 #. [message]: role=NoGoodGuy
 #: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:169
 msgid "GO!"
-msgstr ""
+msgstr "VÁ!"
 
 #. [objective]: condition=win
 #: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:179
@@ -243,7 +245,7 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:80
 #: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:147
 msgid "Death of Dillon"
-msgstr ""
+msgstr "Morte de Dillon"
 
 #. [objective]: condition=lose
 #: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:187
@@ -256,22 +258,22 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:216
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:100
 msgid "Turns run out"
-msgstr ""
+msgstr "Fim dos turnos"
 
 #. [objective]: condition=win
 #: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:198
 msgid "Explore"
-msgstr ""
+msgstr "Explorar"
 
 #. [objective]: condition=lose
 #: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:202
 msgid "Nothing in particular"
-msgstr ""
+msgstr "Nada em particular"
 
 #. [effect]: type=fire
 #: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:249
 msgid "missile"
-msgstr ""
+msgstr "míssil"
 
 #. [message]: speaker=narrator
 #: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:321
@@ -296,7 +298,7 @@ msgstr ""
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:338
 msgid "Yes, Mother."
-msgstr ""
+msgstr "Sim, Mãe"
 
 #. [message]: speaker=narrator
 #: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:342
@@ -320,7 +322,7 @@ msgstr ""
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:386
 msgid "Yes sir!"
-msgstr ""
+msgstr "Sim, senhor!"
 
 #. [message]: speaker=Urlaf
 #: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:390
@@ -330,12 +332,12 @@ msgstr ""
 #. [message]: speaker=Lylla
 #: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:398
 msgid "Do as he says!"
-msgstr ""
+msgstr "Faça como ele diz!"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:402
 msgid "Yes, mother..."
-msgstr ""
+msgstr "Sim, Mãe..."
 
 #. [objective]: condition=win
 #: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:411
@@ -360,7 +362,7 @@ msgstr ""
 #. [message]: speaker=Lylla
 #: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:524
 msgid "Dillon!"
-msgstr ""
+msgstr "Dillon!"
 
 #. [message]: speaker=Mal-Caryn
 #. [message]: speaker=Morien
@@ -369,32 +371,32 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:229
 #: Tale_of_a_Mage/utils/deaths.cfg:187 Tale_of_a_Mage/utils/deaths.cfg:317
 msgid "No!"
-msgstr ""
+msgstr "Não!"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:532
 msgid "...oog..."
-msgstr ""
+msgstr "...ug..."
 
 #. [message]: speaker=Olaf
 #: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:546
 msgid "No! Lylla!"
-msgstr ""
+msgstr "Não! Lylla!"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:550
 msgid "Mother!"
-msgstr ""
+msgstr "Mãe!"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:561
 msgid "Father!"
-msgstr ""
+msgstr "Pai!"
 
 #. [message]: speaker=Lylla
 #: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:565
 msgid "Olaf!"
-msgstr ""
+msgstr "Olaf!"
 
 #. [message]: speaker=Caryn
 #: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:569
@@ -409,17 +411,17 @@ msgstr ""
 #. [message]: speaker=Caryn
 #: Tale_of_a_Mage/scenarios/00_1_Townsquare.cfg:588
 msgid "Silence!"
-msgstr ""
+msgstr "Silencio!"
 
 #. [scenario]: id=00_2_Adventure
 #: Tale_of_a_Mage/scenarios/00_2_Adventure.cfg:3
 msgid "Adventure"
-msgstr ""
+msgstr "Aventura"
 
 #. [objective]: condition=win
 #: Tale_of_a_Mage/scenarios/00_2_Adventure.cfg:79
 msgid "Move Dillon to the end of the path"
-msgstr ""
+msgstr "Mova Dillon até o final do caminho"
 
 #. [objective]: condition=lose
 #: Tale_of_a_Mage/scenarios/00_2_Adventure.cfg:87
@@ -429,12 +431,12 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:84
 #: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:151
 msgid "Death of Lhyron"
-msgstr ""
+msgstr "Morte de Lhynon"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/00_2_Adventure.cfg:106
 msgid "Whew, I've escaped."
-msgstr ""
+msgstr "Chi, escapei..."
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/00_2_Adventure.cfg:110
@@ -444,7 +446,7 @@ msgstr ""
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/00_2_Adventure.cfg:114
 msgid "What? Who are you?"
-msgstr ""
+msgstr "O que? O que são?"
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/00_2_Adventure.cfg:118
@@ -477,7 +479,7 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:310
 #: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:328
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/00_2_Adventure.cfg:134
@@ -511,7 +513,7 @@ msgstr ""
 #. [message]: speaker=Glyros
 #: Tale_of_a_Mage/scenarios/00_2_Adventure.cfg:155
 msgid "Hey! Who's that?"
-msgstr ""
+msgstr "Quem era aquele?"
 
 #. [message]: speaker=Blowyn
 #: Tale_of_a_Mage/scenarios/00_2_Adventure.cfg:159
@@ -535,32 +537,32 @@ msgstr ""
 #. [message]: speaker=Glyros
 #: Tale_of_a_Mage/scenarios/00_2_Adventure.cfg:171
 msgid "Hee hee!"
-msgstr ""
+msgstr "Hee hee!"
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/00_2_Adventure.cfg:175
 msgid "Uh oh..."
-msgstr ""
+msgstr "Uh oh..."
 
 #. [message]: speaker=unit
 #: Tale_of_a_Mage/scenarios/00_2_Adventure.cfg:186
 msgid "Ugh..."
-msgstr ""
+msgstr "Ugh..."
 
 #. [message]: speaker=unit
 #: Tale_of_a_Mage/scenarios/00_2_Adventure.cfg:196
 msgid "Ack..."
-msgstr ""
+msgstr "Arre..."
 
 #. [message]: speaker=unit
 #: Tale_of_a_Mage/scenarios/00_2_Adventure.cfg:207
 msgid "No! Mother! Father..."
-msgstr ""
+msgstr "Não! Mãe! Pai..."
 
 #. [message]: speaker=unit
 #: Tale_of_a_Mage/scenarios/00_2_Adventure.cfg:220
 msgid "Heh...adventure...bah..."
-msgstr ""
+msgstr "Eh... aventura... pá..."
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/00_2_Adventure.cfg:235
@@ -577,12 +579,12 @@ msgstr ""
 #. [scenario]: id=00_3_Council
 #: Tale_of_a_Mage/scenarios/00_3_Council.cfg:3
 msgid "Council"
-msgstr ""
+msgstr "O Conselho"
 
 #. [side]: type=Lord, id=Gilder
 #: Tale_of_a_Mage/scenarios/00_3_Council.cfg:30
 msgid "Lord Gilder"
-msgstr ""
+msgstr "Senhor Planador"
 
 #. [objective]: condition=win
 #: Tale_of_a_Mage/scenarios/00_3_Council.cfg:52
@@ -602,12 +604,12 @@ msgstr ""
 #. [message]: speaker=Gilder
 #: Tale_of_a_Mage/scenarios/00_3_Council.cfg:112
 msgid "What! By whom?"
-msgstr ""
+msgstr "O que? Por quem?"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/00_3_Council.cfg:116
 msgid "...bandits...(keels over)"
-msgstr ""
+msgstr "...bandidos... (ajoelha-se)"
 
 #. [message]: speaker=Gilder
 #: Tale_of_a_Mage/scenarios/00_3_Council.cfg:120
@@ -619,7 +621,7 @@ msgstr ""
 #. [message]: speaker=Relmon
 #: Tale_of_a_Mage/scenarios/00_3_Council.cfg:124
 msgid "Immediately, my lord!"
-msgstr ""
+msgstr "Imediatamente, meu Senhor!"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/00_3_Council.cfg:128
@@ -634,12 +636,12 @@ msgstr ""
 #. [side]: type=Assassin, id=Goren
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:88
 msgid "Goren"
-msgstr ""
+msgstr "Goren"
 
 #. [side]: type=Assassin, id=Ungul
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:100
 msgid "Ungul"
-msgstr ""
+msgstr "Ungul"
 
 #. [objectives]
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:124
@@ -649,12 +651,12 @@ msgstr ""
 #. [objective]: condition=win
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:126
 msgid "Defeat all enemy Leaders"
-msgstr ""
+msgstr "Derrota todos os líderes inimigos"
 
 #. [objective]: condition=lose
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:130
 msgid "Death of Lord Gilder"
-msgstr ""
+msgstr "Morte do Senhor Planador"
 
 #. [message]: speaker=Relmon
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:178
@@ -664,12 +666,13 @@ msgstr ""
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:182
 msgid "Aaaggghhhh! No!"
-msgstr ""
+msgstr "Aaaggghhhh! Não!"
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:186
+#, fuzzy
 msgid "(sob)"
-msgstr ""
+msgstr "SUSPIRO"
 
 #. [message]: speaker=Gildur
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:190
@@ -709,7 +712,7 @@ msgstr ""
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:222
 msgid "No! Wait!"
-msgstr ""
+msgstr "Não! Espera!"
 
 #. [message]: speaker=Gilder
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:289
@@ -724,12 +727,12 @@ msgstr ""
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:299
 msgid "No! Dillon you can't die!"
-msgstr ""
+msgstr "Não! Dillon, não podes morrer!"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:303
 msgid "I'm not yet dead! I cannot die..."
-msgstr ""
+msgstr "Ainda não estou morto! Não posso morrer..."
 
 #. [message]: speaker=Gilder
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:307
@@ -739,12 +742,12 @@ msgstr ""
 #. [message]: speaker=Gilder
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:331
 msgid "Hold on until the end of the battle!"
-msgstr ""
+msgstr "Sobreviva até o fim da batalha"
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:337
 msgid "Argh! Dillon needs me!"
-msgstr ""
+msgstr "Argh! Dillon precisa de mim!"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:341
@@ -754,7 +757,7 @@ msgstr ""
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:345
 msgid "No, Dillon..."
-msgstr ""
+msgstr "Não, Dillon..."
 
 #. [message]: speaker=Gilder
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:349
@@ -764,12 +767,12 @@ msgstr ""
 #. [message]: speaker=Gilder
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:362
 msgid "Alas! I am defeated!"
-msgstr ""
+msgstr "Alias! Fui derrotado!"
 
 #. [message]: speaker=Caryn
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:376
 msgid "Argh! I am finished!"
-msgstr ""
+msgstr "Argh! Estou terminado!"
 
 #. [message]: speaker=narrator
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:386
@@ -781,7 +784,7 @@ msgstr ""
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:393
 msgid "For my parents!"
-msgstr ""
+msgstr "Pelos meus pais!"
 
 #. [message]: speaker=narrator
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:397
@@ -798,27 +801,29 @@ msgstr ""
 #. [message]: speaker=Goren
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:424
 msgid "Aiee! No!"
-msgstr ""
+msgstr "Aiee! Não!"
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:429
 msgid "Squealed like a pig!"
-msgstr ""
+msgstr "Grunhiu como um porco!"
 
 #. [message]: speaker=Ungul
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:444
 msgid "Uhh. I am dead."
-msgstr ""
+msgstr "Ui. Estou a morrer."
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:448
+#, fuzzy
 msgid "Not too upset, was he?"
-msgstr ""
+msgstr "Não muito brilhante, não?"
 
 #. [message]: speaker=Gilder
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:475
+#, fuzzy
 msgid "That is the last of the rabble!"
-msgstr ""
+msgstr "Este é o último cenário."
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:494
@@ -832,8 +837,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:502
+#, fuzzy
 msgid "Caryn was from this village?"
-msgstr ""
+msgstr "Este ficheiro de parâmetros será guardado de %s. Continuar?"
 
 #. [message]: speaker=Gilder
 #: Tale_of_a_Mage/scenarios/00_4_Regrets.cfg:506
@@ -860,8 +866,9 @@ msgstr ""
 
 #. [scenario]: id=01_First_Try
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:3
+#, fuzzy
 msgid "First Try"
-msgstr ""
+msgstr "_Tentar Novamente"
 
 #. [side]: type=Advanced Apprentice Mage, id=Slinian
 #. [side]: type=Necromancer, id=Slinian
@@ -873,7 +880,7 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/11-1_The_Investigation.cfg:120
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:29
 msgid "Slinian"
-msgstr ""
+msgstr "Slinian"
 
 #. [side]: type=Arch Mage, id=Leogwyn
 #. [side]: type=Death Knight, id=Leogwyn
@@ -883,7 +890,7 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:317
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:79
 msgid "Leogwyn"
-msgstr ""
+msgstr "Leogwyn"
 
 #. [side]: type=Arch Mage, id=Elycla
 #. [side]: type=Spectre, id=Elycla
@@ -894,7 +901,7 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:326
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:91
 msgid "Elycla"
-msgstr ""
+msgstr "Elycla"
 
 #. [part]
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:72
@@ -933,13 +940,15 @@ msgstr ""
 #. [objective]: condition=win
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:141
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:92
+#, fuzzy
 msgid "Defeat Slinian"
-msgstr ""
+msgstr "Derrota Xanthos"
 
 #. [message]: speaker=narrator
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:159
+#, fuzzy
 msgid "The Academy of Alduin, -538 YW"
-msgstr ""
+msgstr "Academia da Magia, Ilha de Alduin."
 
 #. [message]: speaker=Leogwyn
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:164
@@ -961,8 +970,9 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:342
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:507
 #: Tale_of_a_Mage/utils/deaths.cfg:91
+#, fuzzy
 msgid "My apologies."
-msgstr ""
+msgstr "Os meus idiomas"
 
 #. [message]: speaker=Elycla
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:176
@@ -984,8 +994,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:188
+#, fuzzy
 msgid "We'll see about that..."
-msgstr ""
+msgstr "Veremos sobre isto!"
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:205
@@ -999,36 +1010,41 @@ msgstr ""
 
 #. [message]: speaker=Elycla
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:225
+#, fuzzy
 msgid "Now, now..."
-msgstr ""
+msgstr "Agora"
 
 #. [message]: speaker=Leogwyn
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:242
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:283
+#, fuzzy
 msgid "You're out."
-msgstr ""
+msgstr "%s! -- É a sua vez."
 
 #. [message]: speaker=Leogwyn
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:250
+#, fuzzy
 msgid "He got you."
-msgstr ""
+msgstr "Demos-lhe %(n)s dica."
 
 #. [message]: speaker=unit
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:254
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:295
 msgid "Please!"
-msgstr ""
+msgstr "Por favor!"
 
 #. [message]: speaker=Leogwyn
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:258
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:299
+#, fuzzy
 msgid "YOU'RE OUT!"
-msgstr ""
+msgstr "%s! -- É a sua vez."
 
 #. [message]: speaker=Leogwyn
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:291
+#, fuzzy
 msgid "She got you."
-msgstr ""
+msgstr "Demos-lhe %(n)s dica."
 
 #. [message]: speaker=second_unit
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:324
@@ -1039,41 +1055,44 @@ msgstr ""
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:328
 msgid "We win!"
-msgstr ""
+msgstr "Vencemos!"
 
 #. [message]: speaker=Elycla
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:332
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:349
+#, fuzzy
 msgid "Slinian's team wins!"
-msgstr ""
+msgstr "Jogador preto é o vencedor!"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:336
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:353
 msgid "Rats!"
-msgstr ""
+msgstr "Ratazanas!"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:383
 msgid "Yes!"
-msgstr ""
+msgstr "Sim!"
 
 #. [message]: speaker=Elycla
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:387
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:400
+#, fuzzy
 msgid "Dillon's team wins!"
-msgstr ""
+msgstr "Jogador preto é o vencedor!"
 
 #. [message]: speaker=Jamarn
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:421
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:354
+#, fuzzy
 msgid "Noooo!"
-msgstr ""
+msgstr "Nãooo!"
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:432
 msgid "Aww..."
-msgstr ""
+msgstr "Aww..."
 
 #. [message]: speaker=Elycla
 #: Tale_of_a_Mage/scenarios/01_First_Try.cfg:440
@@ -1088,22 +1107,23 @@ msgstr ""
 
 #. [scenario]: id=02_The_Plan, id=Dillon 3 4}, id=Marcos 8 8}
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:3
+#, fuzzy
 msgid "The Plan"
-msgstr ""
+msgstr "O Plano"
 
 #. [side]: type=Mage, id=Lhyron
 #. [unit]: id=Lhyron, type=Advanced Apprentice Mage
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:44
 #: Tale_of_a_Mage/scenarios/epilogue.cfg:18
 msgid "Lhyron"
-msgstr ""
+msgstr "Lhyron"
 
 #. [unit]: id=Jamarn, type=Advanced Apprentice Mage
 #. [unit]: id=Jamarn, type=Necrophage
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:81
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:125
 msgid "Jamarn"
-msgstr ""
+msgstr "Jamarn"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:157
@@ -1122,13 +1142,15 @@ msgstr ""
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:169
+#, fuzzy
 msgid "Bitter! Me? Never!"
-msgstr ""
+msgstr "-A PKGS.. Nunca reportar PKGS.\n"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:173
+#, fuzzy
 msgid "Lhyron, shut up!"
-msgstr ""
+msgstr "Cala-te, Idiota!"
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:177
@@ -1139,18 +1161,21 @@ msgstr ""
 
 #. [message]: speaker=Marcos
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:185
+#, fuzzy
 msgid "I have an idea. Have any of you heard of the Icestone?"
-msgstr ""
+msgstr "Boa ideia. Ouviste-a, Rewny?"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:189
+#, fuzzy
 msgid "It sounds familiar..."
-msgstr ""
+msgstr "Sons de retorno do cursor:"
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:193
+#, fuzzy
 msgid "I have no idea."
-msgstr ""
+msgstr "Boa ideia!"
 
 #. [message]: speaker=Mordrid
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:197
@@ -1186,8 +1211,9 @@ msgstr ""
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:213
+#, fuzzy
 msgid "What happened to it?"
-msgstr ""
+msgstr "O canal para onde vai"
 
 #. [message]: speaker=Mordrid
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:217
@@ -1208,8 +1234,9 @@ msgstr ""
 
 #. [message]: speaker=Mordrid
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:225
+#, fuzzy
 msgid "So the legend says."
-msgstr ""
+msgstr "Um Ancião diz ..."
 
 #. [message]: speaker=Marcos
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:229
@@ -1220,8 +1247,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:233
+#, fuzzy
 msgid "We're in school."
-msgstr ""
+msgstr "Encontramos-nos no inferno!"
 
 #. [message]: speaker=Marcos
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:237
@@ -1235,8 +1263,9 @@ msgstr ""
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:245
+#, fuzzy
 msgid "You lost, now shut up."
-msgstr ""
+msgstr "Calam-se, todos! Atacam-os! "
 
 #. [message]: speaker=Marcos
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:249
@@ -1269,28 +1298,32 @@ msgstr ""
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:273
+#, fuzzy
 msgid "Are you coming Slinian?"
-msgstr ""
+msgstr "Actualmente, está a utilizar %s."
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:277
+#, fuzzy
 msgid "Yes, shut up."
-msgstr ""
+msgstr "Cala-te, Idiota!"
 
 #. [unit]: id=Marcos, type=Apprentice Mage
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:298
+#, fuzzy
 msgid "Marcos"
-msgstr ""
+msgstr "San Marcos"
 
 #. [unit]: id=Mordrid, type=Apprentice Mage
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:307
 msgid "Mordrid"
-msgstr ""
+msgstr "Mordrid"
 
 #. [message]: speaker=narrator
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:320
+#, fuzzy
 msgid "A few minutes later..."
-msgstr ""
+msgstr "Alguns minutos depois..."
 
 #. [message]: speaker=Elycla
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:326
@@ -1299,8 +1332,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:330
+#, fuzzy
 msgid "Ahh, it was nothing."
-msgstr ""
+msgstr "nada foi encontrado aqui"
 
 #. [message]: speaker=Leogwyn
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:334
@@ -1349,13 +1383,14 @@ msgstr ""
 
 #. [message]: speaker=Elycla
 #: Tale_of_a_Mage/scenarios/02_The_Plan.cfg:385
+#, fuzzy
 msgid "Shut up."
-msgstr ""
+msgstr "Cala-te."
 
 #. [scenario]: id=03-1_The_Catacombs
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:3
 msgid "The Catacombs"
-msgstr ""
+msgstr "As Catacumbas"
 
 #. [part]
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:44
@@ -1381,8 +1416,9 @@ msgstr ""
 
 #. [message]: speaker=Jamarn
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:100
+#, fuzzy
 msgid "We're doomed!"
-msgstr ""
+msgstr "Estamos condenados..."
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:104
@@ -1398,13 +1434,15 @@ msgstr ""
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:112
+#, fuzzy
 msgid "Who's the coward now?"
-msgstr ""
+msgstr "3D Now! memcpy"
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:116
+#, fuzzy
 msgid "Shut up!"
-msgstr ""
+msgstr "Cala-te."
 
 #. [message]: speaker=Mordrid
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:120
@@ -1422,8 +1460,9 @@ msgstr ""
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:128
+#, fuzzy
 msgid "Amazing!"
-msgstr ""
+msgstr "Fim Espantoso"
 
 #. [message]: speaker=Marcos
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:138
@@ -1432,13 +1471,15 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:147
+#, fuzzy
 msgid "Move Dillon to the end of the maze"
-msgstr ""
+msgstr "Mova Kapou'e até o final das montanhas"
 
 #. [objective]: condition=lose
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:151
+#, fuzzy
 msgid "Death of any apprentice"
-msgstr ""
+msgstr "Morte de qualquer herói"
 
 #. [message]: speaker=Marcos
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:168
@@ -1447,13 +1488,15 @@ msgstr ""
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:172
+#, fuzzy
 msgid "(shudder) I don't like this place."
-msgstr ""
+msgstr "Não gosto do cheiro deste lugar."
 
 #. [message]: speaker=Marcos
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:176
+#, fuzzy
 msgid "Are you coming or not, Lhyron?"
-msgstr ""
+msgstr "Vocês, na estrada! São da Aliança do Norte ou não?"
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:180
@@ -1464,8 +1507,9 @@ msgstr ""
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:184
+#, fuzzy
 msgid "Sure..."
-msgstr ""
+msgstr "Claro."
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:188
@@ -1485,7 +1529,7 @@ msgstr ""
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:204
 msgid "Impressive."
-msgstr ""
+msgstr "Impressivo."
 
 #. [message]: speaker=Mordrid
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:208
@@ -1517,7 +1561,7 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:241
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:559
 msgid "Elendil"
-msgstr ""
+msgstr "Elendil"
 
 #. [message]: speaker=Elendil
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:252
@@ -1526,8 +1570,9 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:256
+#, fuzzy
 msgid "Huh? Who are you?"
-msgstr ""
+msgstr "Quem pelos diabos és tu?"
 
 #. [message]: speaker=Elendil
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:260
@@ -1578,8 +1623,9 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:288
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:184
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:421
+#, fuzzy
 msgid "Very well."
-msgstr ""
+msgstr "Muito bem."
 
 #. [message]: speaker=unit
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:304
@@ -1588,8 +1634,9 @@ msgstr ""
 
 #. [message]: speaker=Marcos
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:308
+#, fuzzy
 msgid "I knew it was there!"
-msgstr ""
+msgstr "Ocorreu um erro ao executar '%s': %s"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:312
@@ -1598,8 +1645,9 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:316
+#, fuzzy
 msgid "Down I gooooooo..."
-msgstr ""
+msgstr "Mover para baixo"
 
 #. [message]: speaker=narrator
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:336
@@ -1610,23 +1658,26 @@ msgstr ""
 
 #. [message]: speaker=second_unit
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:444
+#, fuzzy
 msgid "Aiee! This place IS haunted!"
-msgstr ""
+msgstr "Whoa. Este lugar é quente."
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:448
+#, fuzzy
 msgid "Don't panic!"
-msgstr ""
+msgstr "Não Entre em Pânico"
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:452
+#, fuzzy
 msgid "Kill it!"
-msgstr ""
+msgstr "Então mata-o de novo!"
 
 #. [message]: speaker=unit
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:456
 msgid "EEEEEEEEEEE!"
-msgstr ""
+msgstr "EEEEEEEEEEE!"
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:460
@@ -1640,13 +1691,15 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:502
+#, fuzzy
 msgid "Dillon! I found a way out!"
-msgstr ""
+msgstr "Encontrei a saída!"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:506
+#, fuzzy
 msgid "I'm on my way!"
-msgstr ""
+msgstr "as minha tarefas em %s"
 
 #. [message]: speaker=unit
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:519
@@ -1661,13 +1714,15 @@ msgstr ""
 #. [message]: speaker=Elendil
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:545
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:570
+#, fuzzy
 msgid "WAIT!"
-msgstr ""
+msgstr "_Aguardar"
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:549
+#, fuzzy
 msgid "What? Is there a problem?"
-msgstr ""
+msgstr "Ocorreu um problema com a impressora '%1'."
 
 #. [message]: speaker=Elendil
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:553
@@ -1678,8 +1733,9 @@ msgstr ""
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:574
+#, fuzzy
 msgid "Hey! Who are you?"
-msgstr ""
+msgstr "Quem pelos diabos és tu?"
 
 #. [message]: speaker=Elendil
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:578
@@ -1700,8 +1756,9 @@ msgstr ""
 
 #. [message]: speaker=Marcos
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:592
+#, fuzzy
 msgid "We are searching for the Icestone."
-msgstr ""
+msgstr "Perdemos, pois fui derrotado!"
 
 #. [message]: speaker=Elendil
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:596
@@ -1750,8 +1807,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:624
+#, fuzzy
 msgid "What? Why would he..."
-msgstr ""
+msgstr "O que? Por que você está duvidando de mim?"
 
 #. [message]: speaker=Elendil
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:628
@@ -1769,13 +1827,15 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/03-1_The_Catacombs.cfg:640
+#, fuzzy
 msgid "Go!"
-msgstr ""
+msgstr "Ir"
 
 #. [scenario]: id=03-2_Choices
 #: Tale_of_a_Mage/scenarios/03-2_Choices.cfg:3
+#, fuzzy
 msgid "Choices"
-msgstr ""
+msgstr "Escolhas"
 
 #. [part]
 #: Tale_of_a_Mage/scenarios/03-2_Choices.cfg:29
@@ -1840,8 +1900,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/03-2_Choices.cfg:80
+#, fuzzy
 msgid "No, we can't have that."
-msgstr ""
+msgstr "Já o sabíamos."
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/03-2_Choices.cfg:84
@@ -1874,12 +1935,12 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:129
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:139
 msgid "Blaze"
-msgstr ""
+msgstr "Blaze"
 
 #. [unit]: id=Ember, type=Fire Ghost
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:147
 msgid "Ember"
-msgstr ""
+msgstr "Ember"
 
 #. [message]: speaker=Scorch
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:156
@@ -1900,8 +1961,9 @@ msgstr ""
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:168
+#, fuzzy
 msgid "(shudder) What are those things?"
-msgstr ""
+msgstr "Eca! O que são aquelas coisas?"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:172
@@ -1920,8 +1982,9 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:208
+#, fuzzy
 msgid "Capture the Icestone with Dillon"
-msgstr ""
+msgstr "Captura de Tela (com X11/XCB)"
 
 #. [objective]: condition=lose
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:212
@@ -1930,18 +1993,21 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:236
+#, fuzzy
 msgid "Here we are."
-msgstr ""
+msgstr "Aqui estamos!"
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:240
+#, fuzzy
 msgid "There it is! There's the Icestone!"
-msgstr ""
+msgstr "Aí está. A fortaleza de Halstead."
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:252
+#, fuzzy
 msgid "Hey! What are you two doing here?"
-msgstr ""
+msgstr "O que diabos estão a fazer aqui?"
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:256
@@ -1951,8 +2017,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:260
+#, fuzzy
 msgid "But wait..."
-msgstr ""
+msgstr "Esperar indefinidamente"
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:264
@@ -1994,8 +2061,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:308
+#, fuzzy
 msgid "It's so cold!"
-msgstr ""
+msgstr "O frio, ele queima!"
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:312
@@ -2009,18 +2077,21 @@ msgstr ""
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:320
+#, fuzzy
 msgid "Let's get out of here."
-msgstr ""
+msgstr "Vamos sair daqui..."
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:335
+#, fuzzy
 msgid "Well, what are you waiting for?"
-msgstr ""
+msgstr "você não está esperando por autorização"
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:339
+#, fuzzy
 msgid "I don't dare."
-msgstr ""
+msgstr "Não desentrelaçar"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:343
@@ -2034,13 +2105,15 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:351
+#, fuzzy
 msgid "Fine."
-msgstr ""
+msgstr "ótimo"
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:364
+#, fuzzy
 msgid "Am I supposed to take it?"
-msgstr ""
+msgstr "Eu o levarei comigo para o túmulo."
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:368
@@ -2049,28 +2122,33 @@ msgstr ""
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:372
+#, fuzzy
 msgid "But suppose its dangerous?"
-msgstr ""
+msgstr "Penso que posso. Mas será perigoso!"
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:376
+#, fuzzy
 msgid "(Snicker)"
-msgstr ""
+msgstr "(<i>relinchar</i>)"
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:380
+#, fuzzy
 msgid "Dillon's supposed to take it."
-msgstr ""
+msgstr "Eu o levarei comigo para o túmulo."
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:384
+#, fuzzy
 msgid "Alright then."
-msgstr ""
+msgstr "Depois Por"
 
 #. [message]: speaker=Jamarn
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:397
+#, fuzzy
 msgid "I'm too scared to take it."
-msgstr ""
+msgstr "Eu o levarei comigo para o túmulo."
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:401
@@ -2079,8 +2157,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:405
+#, fuzzy
 msgid "Okay."
-msgstr ""
+msgstr "Ok"
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:457
@@ -2089,13 +2168,15 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:461
+#, fuzzy
 msgid "We got to get out!"
-msgstr ""
+msgstr "Pegamos o livro, vamos dar o fora daqui!"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:476
+#, fuzzy
 msgid "Come on, guys!"
-msgstr ""
+msgstr "Vamos! Depressa!"
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/04_The_Icestone.cfg:480
@@ -2105,7 +2186,7 @@ msgstr ""
 #. [scenario]: id=05_Betrayal
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:3
 msgid "Betrayal"
-msgstr ""
+msgstr "Traição"
 
 #. [objective]: condition=lose
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:96
@@ -2119,8 +2200,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:114
+#, fuzzy
 msgid "It's alright, we're fine."
-msgstr ""
+msgstr "Por padrão, ele é salvo"
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:118
@@ -2139,8 +2221,9 @@ msgstr ""
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:131
+#, fuzzy
 msgid "We do."
-msgstr ""
+msgstr "Faremos o que for preciso."
 
 #. [message]: speaker=Elendil
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:135
@@ -2149,8 +2232,9 @@ msgstr ""
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:139
+#, fuzzy
 msgid "Hey, now look..."
-msgstr ""
+msgstr "Olhe, mais formigas!"
 
 #. [message]: speaker=Elendil
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:143
@@ -2160,8 +2244,9 @@ msgstr ""
 
 #. [message]: speaker=Jamarn
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:147
+#, fuzzy
 msgid "What do you know about the Stone?"
-msgstr ""
+msgstr "O que sabe sobre o estoiro?"
 
 #. [message]: speaker=Elendil
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:151
@@ -2172,8 +2257,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:155
+#, fuzzy
 msgid "You created the Icestone?"
-msgstr ""
+msgstr "Criou com sucesso a seguinte chave:"
 
 #. [message]: speaker=Elendil
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:159
@@ -2200,8 +2286,9 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:171
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:324
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:409
+#, fuzzy
 msgid "What do you mean?"
-msgstr ""
+msgstr "O que quer dizer?"
 
 #. [message]: speaker=Elendil
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:175
@@ -2245,8 +2332,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:199
+#, fuzzy
 msgid "I'm sorry."
-msgstr ""
+msgstr "Desculpe"
 
 #. [message]: speaker=Elendil
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:203
@@ -2257,8 +2345,9 @@ msgstr ""
 
 #. [message]: role=Searchparty
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:227
+#, fuzzy
 msgid "What! Slinian! You murderer!"
-msgstr ""
+msgstr "O que? O que ouviste?"
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:231
@@ -2280,13 +2369,15 @@ msgstr ""
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:243
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:252
+#, fuzzy
 msgid "Never!"
-msgstr ""
+msgstr "Nunca!"
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:247
+#, fuzzy
 msgid "Very well, Dillon..."
-msgstr ""
+msgstr "Muito bem então..."
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:273
@@ -2295,18 +2386,21 @@ msgstr ""
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:304
+#, fuzzy
 msgid "You really think you can fight us?"
-msgstr ""
+msgstr "Vocês podem nos ajudar a enfrentar os orcs?"
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:308
+#, fuzzy
 msgid "We shall see..."
-msgstr ""
+msgstr "Veremos."
 
 #. [message]: role=Searchparty
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:320
+#, fuzzy
 msgid "Argh! What...did...why..."
-msgstr ""
+msgstr "O que perdi, eh?"
 
 #. [message]: speaker=Mordrid
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:324
@@ -2315,8 +2409,9 @@ msgstr ""
 
 #. [message]: speaker=Marcos
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:328
+#, fuzzy
 msgid "Undead!"
-msgstr ""
+msgstr "Mortos-Vivos"
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:332
@@ -2337,8 +2432,9 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:347
+#, fuzzy
 msgid "You may now recruit Apprentice Magi."
-msgstr ""
+msgstr "Agora podes recrutar os nobres aquáticos!"
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:364
@@ -2354,8 +2450,9 @@ msgstr ""
 
 #. [message]: speaker=Jamarn
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:379
+#, fuzzy
 msgid "No! Please!"
-msgstr ""
+msgstr "Espere um momento"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:383
@@ -2364,13 +2461,15 @@ msgstr ""
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:394
+#, fuzzy
 msgid "Please! Don't kill me!"
-msgstr ""
+msgstr "Sou uma abominação, por favor, mate-me."
 
 #. [message]: speaker=second_unit
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:398
+#, fuzzy
 msgid "Should I kill him?"
-msgstr ""
+msgstr "Sim, eu o sirvo."
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:402
@@ -2381,8 +2480,9 @@ msgstr ""
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:406
+#, fuzzy
 msgid "That's what you think!"
-msgstr ""
+msgstr "Então, o que acham?"
 
 #. [message]: speaker=second_unit
 #: Tale_of_a_Mage/scenarios/05_Betrayal.cfg:410
@@ -2391,8 +2491,9 @@ msgstr ""
 
 #. [scenario]: id=06_Consequences
 #: Tale_of_a_Mage/scenarios/06_Consequences.cfg:3
+#, fuzzy
 msgid "Consequences"
-msgstr ""
+msgstr "Truth or Consequences"
 
 #. [part]
 #: Tale_of_a_Mage/scenarios/06_Consequences.cfg:29
@@ -2418,8 +2519,9 @@ msgstr ""
 
 #. [part]
 #: Tale_of_a_Mage/scenarios/06_Consequences.cfg:38
+#, fuzzy
 msgid "Life went on..."
-msgstr ""
+msgstr "Sempre no topo"
 
 #. [part]
 #: Tale_of_a_Mage/scenarios/06_Consequences.cfg:41
@@ -2438,13 +2540,15 @@ msgstr ""
 
 #. [part]
 #: Tale_of_a_Mage/scenarios/06_Consequences.cfg:47
+#, fuzzy
 msgid "Then one day..."
-msgstr ""
+msgstr "Apresentar um dia"
 
 #. [message]: speaker=narrator
 #: Tale_of_a_Mage/scenarios/06_Consequences.cfg:70
+#, fuzzy
 msgid "Isle of Alduin, -552 YW"
-msgstr ""
+msgstr "Academia da Magia, Ilha de Alduin."
 
 #. [message]: speaker=Elycla
 #: Tale_of_a_Mage/scenarios/06_Consequences.cfg:83
@@ -2453,8 +2557,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/06_Consequences.cfg:87
+#, fuzzy
 msgid "Yes, what do you need."
-msgstr ""
+msgstr "Então, o que propões?"
 
 #. [message]: speaker=Elycla
 #: Tale_of_a_Mage/scenarios/06_Consequences.cfg:91
@@ -2465,8 +2570,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/06_Consequences.cfg:95
+#, fuzzy
 msgid "That's great!"
-msgstr ""
+msgstr "Grã Bretanha"
 
 #. [message]: speaker=Elycla
 #: Tale_of_a_Mage/scenarios/06_Consequences.cfg:99
@@ -2475,8 +2581,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/06_Consequences.cfg:103
+#, fuzzy
 msgid "I see."
-msgstr ""
+msgstr "Entendo..."
 
 #. [message]: speaker=Elycla
 #: Tale_of_a_Mage/scenarios/06_Consequences.cfg:107
@@ -2498,13 +2605,15 @@ msgstr ""
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/06_Consequences.cfg:119
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:358
+#, fuzzy
 msgid "I understand."
-msgstr ""
+msgstr "Incapaz de compreender tipo `%s'\n"
 
 #. [scenario]: id=07_Old_Enemies
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:3
+#, fuzzy
 msgid "Old Enemies"
-msgstr ""
+msgstr "Inimigos Intermináveis (1)"
 
 #. [side]: type=Great Mage, id=Headmaster
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:30
@@ -2517,8 +2626,9 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:74
 #: Tale_of_a_Mage/scenarios/08_A_Cry_For_Help.cfg:42
 #: Tale_of_a_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:28
+#, fuzzy
 msgid "Lord Morien"
-msgstr ""
+msgstr "Senhor vingativo"
 
 #. [part]
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:116
@@ -2558,8 +2668,9 @@ msgstr ""
 
 #. [message]: speaker=Headmaster
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:172
+#, fuzzy
 msgid "Permission granted."
-msgstr ""
+msgstr "Autorização concedida"
 
 #. [message]: speaker=Elycla
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:176
@@ -2590,8 +2701,9 @@ msgstr ""
 
 #. [message]: speaker=Elycla
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:213
+#, fuzzy
 msgid "He has a point."
-msgstr ""
+msgstr " [possui ponto de entrada]"
 
 #. [message]: speaker=Headmaster
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:217
@@ -2623,8 +2735,9 @@ msgstr ""
 
 #. [message]: speaker=Headmaster
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:241
+#, fuzzy
 msgid "Very well, we shall slay the Necromancer."
-msgstr ""
+msgstr "Reconheço-o. Muito bem, juntaremos-nos à batalha."
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:245
@@ -2633,8 +2746,9 @@ msgstr ""
 
 #. [message]: speaker=Morien
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:249
+#, fuzzy
 msgid "Silence, dirtbag!"
-msgstr ""
+msgstr "A gerar silêncio"
 
 #. [objectives]
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:335
@@ -2645,44 +2759,52 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:337
+#, fuzzy
 msgid "Escort the children to the end of the path"
-msgstr ""
+msgstr "Troy chega ao fim do caminho que conduz ao nordeste"
 
 #. [objective]: condition=win
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:341
+#, fuzzy
 msgid "Defeat Slinian(Bonus)"
-msgstr ""
+msgstr "Derrota todos os líderes inimigos (Bónus)"
 
 #. [objective]: condition=lose
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:349
 #: Tale_of_a_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:115
+#, fuzzy
 msgid "Death of Lord Morien"
-msgstr ""
+msgstr "Morte do Lorde Throlas"
 
 #. [objective]: condition=lose
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:353
+#, fuzzy
 msgid "Death of the Headmaster"
-msgstr ""
+msgstr "Death metal"
 
 #. [objective]: condition=lose
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:357
+#, fuzzy
 msgid "Death of Leogwyn"
-msgstr ""
+msgstr "Death metal"
 
 #. [objective]: condition=lose
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:361
+#, fuzzy
 msgid "Death of Elycla"
-msgstr ""
+msgstr "Death metal"
 
 #. [objective]: condition=lose
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:365
+#, fuzzy
 msgid "Death of any child"
-msgstr ""
+msgstr "Morte de qualquer herói"
 
 #. [label]
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:372
+#, fuzzy
 msgid "Move Children Here"
-msgstr ""
+msgstr "Mova o líder aqui"
 
 #. [message]: speaker=Headmaster
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:385
@@ -2691,8 +2813,9 @@ msgstr ""
 
 #. [message]: speaker=Morien
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:389
+#, fuzzy
 msgid "I agree, it's too quiet."
-msgstr ""
+msgstr "é muito curta"
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:393
@@ -2702,8 +2825,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:397
+#, fuzzy
 msgid "Slinian! What are you doing here?"
-msgstr ""
+msgstr "O que estão aquáticos a fazer aqui?"
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:401
@@ -2715,8 +2839,9 @@ msgstr ""
 
 #. [message]: speaker=Morien
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:405
+#, fuzzy
 msgid "A necromancer. Scum of the earth."
-msgstr ""
+msgstr "Cache do Google Earth"
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:409
@@ -2741,7 +2866,7 @@ msgstr ""
 #. [message]: speaker=Morien
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:425
 msgid "Affirmitive."
-msgstr ""
+msgstr "Afirmativo."
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:437
@@ -2750,8 +2875,9 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:453
+#, fuzzy
 msgid "Ugh...whats happening?"
-msgstr ""
+msgstr "Ugh... Sinto-me doente."
 
 #. [message]: speaker=Headmaster
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:457
@@ -2760,14 +2886,16 @@ msgstr ""
 
 #. [message]: speaker=Leogwyn
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:499
+#, fuzzy
 msgid "<span color='green'>%#*!@</span>"
-msgstr ""
+msgstr "Cor do preenchimento, Verde"
 
 #. [message]: speaker=Elycla
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:521
 #: Tale_of_a_Mage/utils/deaths.cfg:105
+#, fuzzy
 msgid "Aargh! I'm dying!"
-msgstr ""
+msgstr "Ui! Recebi um SIGABRT, a morrer ..\n"
 
 #. [message]: speaker=Leogwyn
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:525
@@ -2780,8 +2908,9 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:539
 #: Tale_of_a_Mage/scenarios/14_Weldyn_Down.cfg:105
 #: Tale_of_a_Mage/scenarios/15_A_Daring_Rescue.cfg:218
+#, fuzzy
 msgid "Oh..."
-msgstr ""
+msgstr "OH"
 
 #. [message]: speaker=Elycla
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:543
@@ -2790,28 +2919,33 @@ msgstr ""
 
 #. [message]: speaker=Headmaster
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:557
+#, fuzzy
 msgid "No! Not now..."
-msgstr ""
+msgstr "Não, ainda não."
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:561
+#, fuzzy
 msgid "Ah ha ha ha!"
-msgstr ""
+msgstr "Ha'il"
 
 #. [message]: speaker=Headmaster
 #: Tale_of_a_Mage/scenarios/07_Old_Enemies.cfg:575
+#, fuzzy
 msgid "We are doomed!"
-msgstr ""
+msgstr "Estamos condenados..."
 
 #. [scenario]: id=08_A_Cry_For_Help
 #: Tale_of_a_Mage/scenarios/08_A_Cry_For_Help.cfg:3
+#, fuzzy
 msgid "A Cry For Help"
-msgstr ""
+msgstr "Sem ajuda para o '%1'"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/08_A_Cry_For_Help.cfg:74
+#, fuzzy
 msgid "What do we do now?"
-msgstr ""
+msgstr "O que devemos fazer agora?"
 
 #. [message]: speaker=Headmaster
 #: Tale_of_a_Mage/scenarios/08_A_Cry_For_Help.cfg:78
@@ -2827,8 +2961,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/08_A_Cry_For_Help.cfg:96
+#, fuzzy
 msgid "What's the matter?"
-msgstr ""
+msgstr "Estado da Matéria"
 
 #. [message]: role=messenger
 #: Tale_of_a_Mage/scenarios/08_A_Cry_For_Help.cfg:100
@@ -2842,8 +2977,9 @@ msgstr ""
 
 #. [message]: speaker=Headmaster
 #: Tale_of_a_Mage/scenarios/08_A_Cry_For_Help.cfg:108
+#, fuzzy
 msgid "Please do not interrupt! Continue."
-msgstr ""
+msgstr "As senhas não coincidem.  Por favor tente de novo."
 
 #. [message]: role=messenger
 #: Tale_of_a_Mage/scenarios/08_A_Cry_For_Help.cfg:112
@@ -2899,8 +3035,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/08_A_Cry_For_Help.cfg:149
+#, fuzzy
 msgid "And with yo- What?"
-msgstr ""
+msgstr "%s, com Xen %s e Linux %s"
 
 #. [message]: speaker=Headmaster
 #: Tale_of_a_Mage/scenarios/08_A_Cry_For_Help.cfg:153
@@ -2909,13 +3046,15 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/08_A_Cry_For_Help.cfg:157
+#, fuzzy
 msgid "Farewell."
-msgstr ""
+msgstr "Adeus..."
 
 #. [scenario]: id=09_The_Prince_Of_Wesnoth
 #: Tale_of_a_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:3
+#, fuzzy
 msgid "The Prince Of Wesnoth"
-msgstr ""
+msgstr "Príncipe de Wesnoth"
 
 #. [side]: type=Prince, id=Arand
 #. [unit]: type=Prince, id=Arand
@@ -2925,23 +3064,26 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/10-3_Undead_Threat.cfg:44
 #: Tale_of_a_Mage/scenarios/11-1_The_Investigation.cfg:29
 #: Tale_of_a_Mage/scenarios/12_Escape.cfg:30
+#, fuzzy
 msgid "Arand II"
-msgstr ""
+msgstr "Haldric II"
 
 #. [side]: type=Fugitive, id=Hugo
 #: Tale_of_a_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:61
 msgid "Hugo"
-msgstr ""
+msgstr "Hugo"
 
 #. [side]: type=Highwayman, id=Ryan
 #: Tale_of_a_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:78
+#, fuzzy
 msgid "Ryan"
-msgstr ""
+msgstr "Ryan Cumming"
 
 #. [objective]: condition=win
 #: Tale_of_a_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:107
+#, fuzzy
 msgid "Rescue the Prince"
-msgstr ""
+msgstr "Príncipe de Wesnoth"
 
 #. [objective]: condition=lose
 #: Tale_of_a_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:119
@@ -2951,8 +3093,9 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:76
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:88
 #: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:155
+#, fuzzy
 msgid "Death of Arand II"
-msgstr ""
+msgstr "Morte de Garard II"
 
 #. [message]: role=messenger
 #: Tale_of_a_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:149
@@ -2975,8 +3118,9 @@ msgstr ""
 #. [message]: speaker=Ryan
 #: Tale_of_a_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:161
 #: Tale_of_a_Mage/scenarios/19_The_Great_Council.cfg:146
+#, fuzzy
 msgid "Aye!"
-msgstr ""
+msgstr "Sim."
 
 #. [message]: speaker=Morien
 #: Tale_of_a_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:165
@@ -2985,23 +3129,26 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:176
+#, fuzzy
 msgid "No, not now..."
-msgstr ""
+msgstr "Não, ainda não."
 
 #. [message]: speaker=Morien
 #: Tale_of_a_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:190
+#, fuzzy
 msgid "No, we must save the prince!"
-msgstr ""
+msgstr "Não. Temos um dever a cumprir. Precisamos de passar."
 
 #. [message]: speaker=Arand
 #: Tale_of_a_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:204
 msgid "Curses!"
-msgstr ""
+msgstr "Maldição!"
 
 #. [message]: role=messenger
 #: Tale_of_a_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:218
+#, fuzzy
 msgid "Alas, I have fallen..."
-msgstr ""
+msgstr "Árvore Caída"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:226
@@ -3015,8 +3162,9 @@ msgstr ""
 
 #. [message]: speaker=Morien
 #: Tale_of_a_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:234
+#, fuzzy
 msgid "Oh, it was nothing."
-msgstr ""
+msgstr "nada foi encontrado aqui"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:238
@@ -3033,8 +3181,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:246
+#, fuzzy
 msgid "It's really not necessary..."
-msgstr ""
+msgstr "Não sabia"
 
 #. [message]: speaker=Arand
 #: Tale_of_a_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:250
@@ -3045,13 +3194,15 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/09_The_Prince_Of_Wesnoth.cfg:254
+#, fuzzy
 msgid "Oh, very well."
-msgstr ""
+msgstr "Muito bem então..."
 
 #. [scenario]: id=10-1_A_Royal_Greeting
 #: Tale_of_a_Mage/scenarios/10-1_A_Royal_Greeting.cfg:3
+#, fuzzy
 msgid "A Royal Greeting"
-msgstr ""
+msgstr "Boas vindas SMTP"
 
 #. [side]: type=King, id=Konrad
 #: Tale_of_a_Mage/scenarios/10-1_A_Royal_Greeting.cfg:29
@@ -3060,8 +3211,9 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/15_A_Daring_Rescue.cfg:30
 #: Tale_of_a_Mage/scenarios/16_The_Elves.cfg:30
 #: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:30
+#, fuzzy
 msgid "Konrad"
-msgstr ""
+msgstr "Konrad"
 
 #. [unit]: type=Queen, id=Li'sar
 #: Tale_of_a_Mage/scenarios/10-1_A_Royal_Greeting.cfg:37
@@ -3070,8 +3222,9 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/15_A_Daring_Rescue.cfg:48
 #: Tale_of_a_Mage/scenarios/16_The_Elves.cfg:52
 #: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:44
+#, fuzzy
 msgid "Li'sar"
-msgstr ""
+msgstr "Sakht Sar"
 
 #. [unit]: type=Junior Prince, id=Eldaric
 #: Tale_of_a_Mage/scenarios/10-1_A_Royal_Greeting.cfg:52
@@ -3079,13 +3232,15 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/10-3_Undead_Threat.cfg:52
 #: Tale_of_a_Mage/scenarios/16_The_Elves.cfg:60
 #: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:57
+#, fuzzy
 msgid "Eldaric V"
-msgstr ""
+msgstr "Rei Eldaric IV"
 
 #. [message]: speaker=Arand
 #: Tale_of_a_Mage/scenarios/10-1_A_Royal_Greeting.cfg:93
+#, fuzzy
 msgid "Greetings, Father! I have returned."
-msgstr ""
+msgstr "O Nyquist retornou o valor:"
 
 #. [message]: speaker=Konrad
 #: Tale_of_a_Mage/scenarios/10-1_A_Royal_Greeting.cfg:97
@@ -3114,8 +3269,9 @@ msgstr ""
 
 #. [message]: speaker=Konrad
 #: Tale_of_a_Mage/scenarios/10-1_A_Royal_Greeting.cfg:115
+#, fuzzy
 msgid "Hmm, interesting..."
-msgstr ""
+msgstr "Ah, hmm..."
 
 #. [message]: speaker=Li'sar
 #: Tale_of_a_Mage/scenarios/10-1_A_Royal_Greeting.cfg:119
@@ -3125,7 +3281,7 @@ msgstr ""
 #. [message]: speaker=Arand
 #: Tale_of_a_Mage/scenarios/10-1_A_Royal_Greeting.cfg:123
 msgid "Yes, Mother, I owe them my life."
-msgstr ""
+msgstr "Sim, mãe, devo-lhes a minha vida."
 
 #. [message]: speaker=Li'sar
 #: Tale_of_a_Mage/scenarios/10-1_A_Royal_Greeting.cfg:127
@@ -3134,8 +3290,9 @@ msgstr ""
 
 #. [message]: speaker=Eldaric
 #: Tale_of_a_Mage/scenarios/10-1_A_Royal_Greeting.cfg:131
+#, fuzzy
 msgid "Yes, Mother?"
-msgstr ""
+msgstr "Grifo Mãe"
 
 #. [message]: speaker=Li'sar
 #: Tale_of_a_Mage/scenarios/10-1_A_Royal_Greeting.cfg:135
@@ -3146,18 +3303,21 @@ msgstr ""
 
 #. [message]: speaker=Eldaric
 #: Tale_of_a_Mage/scenarios/10-1_A_Royal_Greeting.cfg:139
+#, fuzzy
 msgid "Right away, Mother."
-msgstr ""
+msgstr "Madrepérola 3D"
 
 #. [message]: speaker=Li'sar
 #: Tale_of_a_Mage/scenarios/10-1_A_Royal_Greeting.cfg:143
+#, fuzzy
 msgid "And as for gold..."
-msgstr ""
+msgstr "Seleccionados %s e %s para transferir."
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/10-1_A_Royal_Greeting.cfg:147
+#, fuzzy
 msgid "This really isn't necessary..."
-msgstr ""
+msgstr "Deseja mesmo apagar este cabeçalho?"
 
 #. [message]: speaker=Arand
 #: Tale_of_a_Mage/scenarios/10-1_A_Royal_Greeting.cfg:151
@@ -3173,8 +3333,9 @@ msgstr ""
 
 #. [scenario]: id=10-2_Uneasy_Tidings
 #: Tale_of_a_Mage/scenarios/10-2_Uneasy_Tidings.cfg:3
+#, fuzzy
 msgid "Uneasy Tidings"
-msgstr ""
+msgstr "Presságios, Bons e Maus"
 
 #. [part]
 #: Tale_of_a_Mage/scenarios/10-2_Uneasy_Tidings.cfg:61
@@ -3230,8 +3391,9 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: Tale_of_a_Mage/scenarios/10-2_Uneasy_Tidings.cfg:136
+#, fuzzy
 msgid "500 gold"
-msgstr ""
+msgstr "500 de ouro! Nada mal!"
 
 #. [message]: speaker=Konrad
 #: Tale_of_a_Mage/scenarios/10-2_Uneasy_Tidings.cfg:141
@@ -3269,13 +3431,15 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/10-2_Uneasy_Tidings.cfg:161
+#, fuzzy
 msgid "(choke) What!?"
-msgstr ""
+msgstr "Novidades"
 
 #. [message]: speaker=Arand
 #: Tale_of_a_Mage/scenarios/10-2_Uneasy_Tidings.cfg:165
+#, fuzzy
 msgid "Exactly."
-msgstr ""
+msgstr "Exactamente."
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/10-2_Uneasy_Tidings.cfg:169
@@ -3298,13 +3462,15 @@ msgstr ""
 
 #. [message]: speaker=Li'sar
 #: Tale_of_a_Mage/scenarios/10-2_Uneasy_Tidings.cfg:181
+#, fuzzy
 msgid "A trap?"
-msgstr ""
+msgstr "Armadilha"
 
 #. [message]: speaker=Arand
 #: Tale_of_a_Mage/scenarios/10-2_Uneasy_Tidings.cfg:185
+#, fuzzy
 msgid "I believe so."
-msgstr ""
+msgstr "Tão perto. Tão perto."
 
 #. [message]: speaker=Konrad
 #: Tale_of_a_Mage/scenarios/10-2_Uneasy_Tidings.cfg:189
@@ -3321,13 +3487,15 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/16_The_Elves.cfg:69
 #: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:71
 #: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:137
+#, fuzzy
 msgid "Ana'sar"
-msgstr ""
+msgstr "Sakht Sar"
 
 #. [message]: speaker=Ana'sar
 #: Tale_of_a_Mage/scenarios/10-2_Uneasy_Tidings.cfg:209
+#, fuzzy
 msgid "Father...mother..."
-msgstr ""
+msgstr "Grifo Mãe"
 
 #. [message]: speaker=Konrad
 #: Tale_of_a_Mage/scenarios/10-2_Uneasy_Tidings.cfg:214
@@ -3353,8 +3521,9 @@ msgstr ""
 
 #. [scenario]: id=10-3_Undead_Threat
 #: Tale_of_a_Mage/scenarios/10-3_Undead_Threat.cfg:3
+#, fuzzy
 msgid "Undead Threat"
-msgstr ""
+msgstr "Invasor Morto-Vivo"
 
 #. [part]
 #: Tale_of_a_Mage/scenarios/10-3_Undead_Threat.cfg:61
@@ -3370,8 +3539,9 @@ msgstr ""
 
 #. [message]: speaker=Eldaric
 #: Tale_of_a_Mage/scenarios/10-3_Undead_Threat.cfg:97
+#, fuzzy
 msgid "Is she going to be alright?"
-msgstr ""
+msgstr "o pacote %d irá ser removido."
 
 #. [message]: role=Healer
 #: Tale_of_a_Mage/scenarios/10-3_Undead_Threat.cfg:101
@@ -3382,8 +3552,9 @@ msgstr ""
 
 #. [message]: speaker=Konrad
 #: Tale_of_a_Mage/scenarios/10-3_Undead_Threat.cfg:105
+#, fuzzy
 msgid "That relieves me greatly."
-msgstr ""
+msgstr "HAHAHAHA, SUA IGNORÂNCIA ME DIVERTE!"
 
 #. [message]: speaker=Eldaric
 #: Tale_of_a_Mage/scenarios/10-3_Undead_Threat.cfg:119
@@ -3392,8 +3563,9 @@ msgstr ""
 
 #. [message]: speaker=Li'sar
 #: Tale_of_a_Mage/scenarios/10-3_Undead_Threat.cfg:123
+#, fuzzy
 msgid "Yes, son, I heard."
-msgstr ""
+msgstr "Filho de Olho-Negro"
 
 #. [message]: speaker=Eldaric
 #: Tale_of_a_Mage/scenarios/10-3_Undead_Threat.cfg:127
@@ -3420,13 +3592,15 @@ msgstr ""
 
 #. [message]: speaker=Li'sar
 #: Tale_of_a_Mage/scenarios/10-3_Undead_Threat.cfg:143
+#, fuzzy
 msgid "And how is that?"
-msgstr ""
+msgstr "O quê? Como isto é possível?"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/10-3_Undead_Threat.cfg:147
+#, fuzzy
 msgid "I happen to know a necromancer."
-msgstr ""
+msgstr "Eu não sei como imprimir isso!"
 
 #. [message]: speaker=Eldaric
 #: Tale_of_a_Mage/scenarios/10-3_Undead_Threat.cfg:151
@@ -3447,8 +3621,9 @@ msgstr ""
 
 #. [message]: speaker=Eldaric
 #: Tale_of_a_Mage/scenarios/10-3_Undead_Threat.cfg:163
+#, fuzzy
 msgid "Oh. My mistake."
-msgstr ""
+msgstr "Ei meu! Um monstro!"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/10-3_Undead_Threat.cfg:167
@@ -3496,8 +3671,9 @@ msgstr ""
 
 #. [message]: speaker=Eldaric
 #: Tale_of_a_Mage/scenarios/10-3_Undead_Threat.cfg:199
+#, fuzzy
 msgid "Can I go with them?"
-msgstr ""
+msgstr "À Luta!"
 
 #. [message]: speaker=Li'sar
 #: Tale_of_a_Mage/scenarios/10-3_Undead_Threat.cfg:203
@@ -3511,8 +3687,9 @@ msgstr ""
 
 #. [message]: speaker=Konrad
 #: Tale_of_a_Mage/scenarios/10-3_Undead_Threat.cfg:211
+#, fuzzy
 msgid "Farewell, Dillon."
-msgstr ""
+msgstr "Adeus, Kalenz!"
 
 #. [scenario]: id=11-1_The_Investigation
 #: Tale_of_a_Mage/scenarios/11-1_The_Investigation.cfg:3
@@ -3521,13 +3698,15 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/11-1_The_Investigation.cfg:147
+#, fuzzy
 msgid "Well, this is his lair."
-msgstr ""
+msgstr "Bem, esse é o fim das tuas maldades."
 
 #. [message]: speaker=Arand
 #: Tale_of_a_Mage/scenarios/11-1_The_Investigation.cfg:151
+#, fuzzy
 msgid "It seems to be deserted."
-msgstr ""
+msgstr "O ficheiro parece ser de áudio."
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/11-1_The_Investigation.cfg:155
@@ -3563,8 +3742,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/11-1_The_Investigation.cfg:182
+#, fuzzy
 msgid "He's right. He has us."
-msgstr ""
+msgstr "Bem, ele tem a idéia certa, de qualquer forma."
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/11-1_The_Investigation.cfg:186
@@ -3585,8 +3765,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/11-1_The_Investigation.cfg:198
+#, fuzzy
 msgid "Slinian, you...coward!"
-msgstr ""
+msgstr "Partilhados consigo"
 
 #. [message]: speaker=Arand
 #: Tale_of_a_Mage/scenarios/11-1_The_Investigation.cfg:202
@@ -3607,23 +3788,26 @@ msgstr ""
 
 #. [scenario]: id=11-2_A_Shadow_From_The_Past
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:3
+#, fuzzy
 msgid "A Shadow From The Past"
-msgstr ""
+msgstr "%1 e vinte-e-cinco"
 
 #. [side]: type=Death Knight, id=Vlad
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:40
 msgid "Vlad"
-msgstr ""
+msgstr "Vlad"
 
 #. [objective]: condition=win
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:139
+#, fuzzy
 msgid "Defeat Enemy Leaders"
-msgstr ""
+msgstr "Derrotar líderes inimigos"
 
 #. [objective]: condition=win
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:143
+#, fuzzy
 msgid "Free the Prisoners"
-msgstr ""
+msgstr "não livre"
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:157
@@ -3632,13 +3816,15 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:161
+#, fuzzy
 msgid "What is this..."
-msgstr ""
+msgstr "Uah! O que é isto?"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:166
+#, fuzzy
 msgid "Why..."
-msgstr ""
+msgstr "Porque?"
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:171
@@ -3649,18 +3835,19 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:175
+#, fuzzy
 msgid "You're terrible!"
-msgstr ""
+msgstr "%s! -- É a sua vez."
 
 #. [message]: speaker=Jamarn
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:180
 msgid "Ugg.."
-msgstr ""
+msgstr "Ugg.."
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:184
 msgid "Aagghh!"
-msgstr ""
+msgstr "Aagghh!"
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:188
@@ -3670,7 +3857,7 @@ msgstr ""
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:192
 msgid "Jamarn!?"
-msgstr ""
+msgstr "Jamarn!?"
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:196
@@ -3682,7 +3869,7 @@ msgstr ""
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:200
 msgid "(horrified)"
-msgstr ""
+msgstr "(horrificado)"
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:204
@@ -3718,8 +3905,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:222
+#, fuzzy
 msgid "What! What did you say!?"
-msgstr ""
+msgstr "E o que me dizes, Uradredia?"
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:226
@@ -3768,8 +3956,9 @@ msgstr ""
 
 #. [message]: speaker=Caryn
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:279
+#, fuzzy
 msgid "Why have you called me?"
-msgstr ""
+msgstr "O que? Por que você está duvidando de mim?"
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:283
@@ -3785,8 +3974,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:292
+#, fuzzy
 msgid "No..."
-msgstr ""
+msgstr "Não..."
 
 #. [message]: speaker=Caryn
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:296
@@ -3795,13 +3985,15 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:300
+#, fuzzy
 msgid "It wasn't murder."
-msgstr ""
+msgstr "A faixa não foi dividida."
 
 #. [message]: speaker=Caryn
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:304
+#, fuzzy
 msgid "Wasn't it? Explain."
-msgstr ""
+msgstr "Explica o iso de uma variável"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:308
@@ -3839,8 +4031,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:333
+#, fuzzy
 msgid "No, I didn't."
-msgstr ""
+msgstr "Sem nome de ficheiro"
 
 #. [message]: speaker=Caryn
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:337
@@ -3859,8 +4052,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:349
+#, fuzzy
 msgid "What are you talking about?"
-msgstr ""
+msgstr "De que estão a falar?"
 
 #. [message]: speaker=Caryn
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:353
@@ -3873,8 +4067,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:357
+#, fuzzy
 msgid "Wait a second..."
-msgstr ""
+msgstr "Esperar no máximo %d segundo"
 
 #. [message]: speaker=Caryn
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:361
@@ -3885,8 +4080,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:366
+#, fuzzy
 msgid "No! That's a lie!"
-msgstr ""
+msgstr "Não existem mensagens nessa pasta."
 
 #. [message]: speaker=Caryn
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:370
@@ -3912,8 +4108,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:384
+#, fuzzy
 msgid "You are insane!"
-msgstr ""
+msgstr "Estás louco?!"
 
 #. [message]: speaker=Caryn
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:388
@@ -3938,8 +4135,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:401
+#, fuzzy
 msgid "What are you talking about? You're dead!"
-msgstr ""
+msgstr "Segredo? Que segredo, Delfador? Do que estás a falar?"
 
 #. [message]: speaker=Caryn
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:405
@@ -3955,8 +4153,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:417
+#, fuzzy
 msgid "The Icestone? What does that have to do with anything?"
-msgstr ""
+msgstr "O que é isto, e o que isto tem a ver connosco?"
 
 #. [message]: speaker=Caryn
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:421
@@ -3977,8 +4176,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:433
+#, fuzzy
 msgid "Why...it's here...how did-"
-msgstr ""
+msgstr "E como você ficou sabendo dele?"
 
 #. [message]: speaker=Caryn
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:437
@@ -4006,8 +4206,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:455
+#, fuzzy
 msgid "Aghh..."
-msgstr ""
+msgstr "Aghh! Morra!"
 
 #. [message]: speaker=Caryn
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:459
@@ -4018,8 +4219,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:463
+#, fuzzy
 msgid "Yes...please..."
-msgstr ""
+msgstr "Espere um momento"
 
 #. [message]: speaker=Caryn
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:467
@@ -4031,8 +4233,9 @@ msgstr ""
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:472
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:491
+#, fuzzy
 msgid "Yes..."
-msgstr ""
+msgstr "&Sim"
 
 #. [message]: speaker=Caryn
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:477
@@ -4041,8 +4244,9 @@ msgstr ""
 
 #. [message]: speaker=Caryn
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:482
+#, fuzzy
 msgid "Come on...just a little closer..."
-msgstr ""
+msgstr "Vamos ter de descobrir. Vamos lá!"
 
 #. [message]: speaker=Caryn
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:487
@@ -4056,8 +4260,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:532
+#, fuzzy
 msgid "Argh!"
-msgstr ""
+msgstr "Argh!"
 
 #. [message]: speaker=Caryn
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:536
@@ -4068,8 +4273,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:540
+#, fuzzy
 msgid "Oh...no!"
-msgstr ""
+msgstr "Pai! Ó não!"
 
 #. [message]: speaker=Caryn
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:544
@@ -4080,8 +4286,9 @@ msgstr ""
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:548
+#, fuzzy
 msgid "What? Dillon was bewitched?"
-msgstr ""
+msgstr "O que será que aquilo quis dizer?"
 
 #. [message]: speaker=Caryn
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:552
@@ -4101,8 +4308,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:560
+#, fuzzy
 msgid "(agonized) No..."
-msgstr ""
+msgstr "Sem nome de ficheiro"
 
 #. [message]: speaker=Caryn
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:564
@@ -4125,8 +4333,9 @@ msgstr ""
 
 #. [message]: speaker=Slinian
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:594
+#, fuzzy
 msgid "But you said-"
-msgstr ""
+msgstr "Mas, senhor, por detrás de ti...!"
 
 #. [message]: speaker=Caryn
 #: Tale_of_a_Mage/scenarios/11-2_A_Shadow_From_The_Past.cfg:598
@@ -4174,8 +4383,9 @@ msgstr ""
 
 #. [scenario]: id=12_Escape
 #: Tale_of_a_Mage/scenarios/12_Escape.cfg:3
+#, fuzzy
 msgid "Escape"
-msgstr ""
+msgstr "Escape"
 
 #. [side]: type=Dark Sorcerer, id=Eulias
 #: Tale_of_a_Mage/scenarios/12_Escape.cfg:48
@@ -4184,8 +4394,9 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Tale_of_a_Mage/scenarios/12_Escape.cfg:65
+#, fuzzy
 msgid "Defeat Eulias"
-msgstr ""
+msgstr "Derrota Xanthos"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/12_Escape.cfg:83
@@ -4214,8 +4425,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/12_Escape.cfg:99
+#, fuzzy
 msgid "Dead."
-msgstr ""
+msgstr "Mortos ansiosos"
 
 #. [message]: speaker=Arand
 #: Tale_of_a_Mage/scenarios/12_Escape.cfg:103
@@ -4224,8 +4436,9 @@ msgstr ""
 
 #. [message]: speaker=Eulias
 #: Tale_of_a_Mage/scenarios/12_Escape.cfg:107
+#, fuzzy
 msgid "Hey! Escaped prisoners! Get them!"
-msgstr ""
+msgstr "Os prisioneiros escaparam! Sigam-os e arrasam-os!"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/12_Escape.cfg:111
@@ -4241,18 +4454,20 @@ msgstr ""
 
 #. [scenario]: id=13_Old_Friends
 #: Tale_of_a_Mage/scenarios/13_Old_Friends.cfg:3
+#, fuzzy
 msgid "Old Friends"
-msgstr ""
+msgstr "lista dos amigos"
 
 #. [side]: type=Orcish Leader, id=Groshnak
 #: Tale_of_a_Mage/scenarios/13_Old_Friends.cfg:30
 msgid "Groshnak"
-msgstr ""
+msgstr "Groshnak"
 
 #. [objective]: condition=win
 #: Tale_of_a_Mage/scenarios/13_Old_Friends.cfg:61
+#, fuzzy
 msgid "Defeat Groshnak"
-msgstr ""
+msgstr "Derrota Xanthos"
 
 #. [message]: speaker=Arand
 #: Tale_of_a_Mage/scenarios/13_Old_Friends.cfg:83
@@ -4291,13 +4506,15 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/13_Old_Friends.cfg:132
+#, fuzzy
 msgid "Lhyron! Where did you come from?"
-msgstr ""
+msgstr "Onde foram?! E de onde vieram?"
 
 #. [message]: speaker=Arand
 #: Tale_of_a_Mage/scenarios/13_Old_Friends.cfg:136
+#, fuzzy
 msgid "Is this a friend of yours?"
-msgstr ""
+msgstr "Este pacote não é desinstalável\n"
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/13_Old_Friends.cfg:140
@@ -4323,13 +4540,15 @@ msgstr ""
 
 #. [scenario]: id=14_Weldyn_Down
 #: Tale_of_a_Mage/scenarios/14_Weldyn_Down.cfg:3
+#, fuzzy
 msgid "Weldyn Down"
-msgstr ""
+msgstr "Mover para baixo"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/14_Weldyn_Down.cfg:64
+#, fuzzy
 msgid "What...is this?"
-msgstr ""
+msgstr "Uah! O que é isto?"
 
 #. [message]: speaker=Arand
 #: Tale_of_a_Mage/scenarios/14_Weldyn_Down.cfg:68
@@ -4352,8 +4571,9 @@ msgstr ""
 
 #. [message]: role=survivor
 #: Tale_of_a_Mage/scenarios/14_Weldyn_Down.cfg:87
+#, fuzzy
 msgid "What? Who's that?"
-msgstr ""
+msgstr "Quem era aquele?"
 
 #. [message]: role=survivor
 #: Tale_of_a_Mage/scenarios/14_Weldyn_Down.cfg:92
@@ -4395,33 +4615,38 @@ msgstr ""
 
 #. [message]: role=survivor
 #: Tale_of_a_Mage/scenarios/14_Weldyn_Down.cfg:121
+#, fuzzy
 msgid "...thank...you......your...."
-msgstr ""
+msgstr "Obrigado pela tua gentileza."
 
 #. [scenario]: id=15_A_Daring_Rescue
 #: Tale_of_a_Mage/scenarios/15_A_Daring_Rescue.cfg:3
+#, fuzzy
 msgid "A Daring Rescue"
-msgstr ""
+msgstr "Resgate o sargento"
 
 #. [side]: type=Orcish Warlord, id=Bogdish
 #: Tale_of_a_Mage/scenarios/15_A_Daring_Rescue.cfg:81
 msgid "Bogdish"
-msgstr ""
+msgstr "Bogdish"
 
 #. [objective]: condition=win
 #: Tale_of_a_Mage/scenarios/15_A_Daring_Rescue.cfg:112
+#, fuzzy
 msgid "Defeat all enemy leaders."
-msgstr ""
+msgstr "Derrota todos os líderes inimigos"
 
 #. [objective]: condition=lose
 #: Tale_of_a_Mage/scenarios/15_A_Daring_Rescue.cfg:116
+#, fuzzy
 msgid "Death of any Hero Unit"
-msgstr ""
+msgstr "Qualquer unidade deve alcançar a cidadela negra"
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/15_A_Daring_Rescue.cfg:138
+#, fuzzy
 msgid "Look! It's the King!"
-msgstr ""
+msgstr "4j - Rei da Montanha"
 
 #. [message]: speaker=Konrad
 #: Tale_of_a_Mage/scenarios/15_A_Daring_Rescue.cfg:142
@@ -4442,18 +4667,21 @@ msgstr ""
 
 #. [message]: speaker=Gilder
 #: Tale_of_a_Mage/scenarios/15_A_Daring_Rescue.cfg:178
+#, fuzzy
 msgid "Quick men! What is this?"
-msgstr ""
+msgstr "Hmm, o que é esta coisa?"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/15_A_Daring_Rescue.cfg:182
+#, fuzzy
 msgid "Lord Gilder!"
-msgstr ""
+msgstr "Senhor vingativo"
 
 #. [message]: speaker=Gilder
 #: Tale_of_a_Mage/scenarios/15_A_Daring_Rescue.cfg:186
+#, fuzzy
 msgid "Yes. Who are you?"
-msgstr ""
+msgstr "Quem pelos diabos és tu?"
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/15_A_Daring_Rescue.cfg:190
@@ -4486,8 +4714,9 @@ msgstr ""
 
 #. [message]: speaker=Gilder
 #: Tale_of_a_Mage/scenarios/15_A_Daring_Rescue.cfg:210
+#, fuzzy
 msgid "Sorry, sir."
-msgstr ""
+msgstr "Sim, senhor!"
 
 #. [message]: speaker=Arand
 #: Tale_of_a_Mage/scenarios/15_A_Daring_Rescue.cfg:222
@@ -4516,8 +4745,9 @@ msgstr ""
 
 #. [scenario]: id=16_The_Elves
 #: Tale_of_a_Mage/scenarios/16_The_Elves.cfg:3
+#, fuzzy
 msgid "The Elves"
-msgstr ""
+msgstr "Elfos"
 
 #. [side]: type=Elvish Marshal, id=Galdrier
 #: Tale_of_a_Mage/scenarios/16_The_Elves.cfg:80
@@ -4525,7 +4755,7 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/19_The_Great_Council.cfg:50
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:55
 msgid "Galdrier"
-msgstr ""
+msgstr "Galdrier"
 
 #. [part]
 #: Tale_of_a_Mage/scenarios/16_The_Elves.cfg:90
@@ -4611,42 +4841,47 @@ msgstr ""
 
 #. [message]: speaker=Konrad
 #: Tale_of_a_Mage/scenarios/16_The_Elves.cfg:168
+#, fuzzy
 msgid "It's a deal then."
-msgstr ""
+msgstr "Então vamos lá!"
 
 #. [scenario]: id=17_Battle_For_The_Swamps
 #: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:3
+#, fuzzy
 msgid "Battle For The Swamps"
-msgstr ""
+msgstr "Battle for Wesnoth"
 
 #. [side]: type=Saurian Flanker, id=Xirasz
 #: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:99
 #: Tale_of_a_Mage/scenarios/19_The_Great_Council.cfg:60
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:67
 msgid "Xirasz"
-msgstr ""
+msgstr "Xirasz"
 
 #. [side]: type=Saurian Oracle, id=Kezz
 #: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:111
 msgid "Kezz"
-msgstr ""
+msgstr "Kezz"
 
 #. [objective]: condition=win
 #: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:155
+#, fuzzy
 msgid "Defeat Xirasz"
-msgstr ""
+msgstr "Derrota Xanthos"
 
 #. [objective]: condition=lose
 #: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:159
 #: Tale_of_a_Mage/scenarios/18_Orcish_Supremacy.cfg:73
 #: Tale_of_a_Mage/scenarios/18_Orcish_Supremacy.cfg:247
+#, fuzzy
 msgid "Death of any hero"
-msgstr ""
+msgstr "Morte de um herói elfico"
 
 #. [objective]: condition=lose
 #: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:163
+#, fuzzy
 msgid "Death of Galdrier"
-msgstr ""
+msgstr "Death metal"
 
 #. [message]: speaker=Galdrier
 #: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:174
@@ -4662,13 +4897,15 @@ msgstr ""
 
 #. [message]: speaker=Galdrier
 #: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:189
+#, fuzzy
 msgid "Argh..."
-msgstr ""
+msgstr "Argh!"
 
 #. [message]: speaker=Xirasz
 #: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:203
+#, fuzzy
 msgid "Ssszzzz...stupid elvsz!"
-msgstr ""
+msgstr "Árvore estúpida."
 
 #. [message]: speaker=Galdrier
 #: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:207
@@ -4697,8 +4934,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:223
+#, fuzzy
 msgid "What is this?"
-msgstr ""
+msgstr "Uah! O que é isto?"
 
 #. [message]: speaker=Galdrier
 #: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:227
@@ -4719,8 +4957,9 @@ msgstr ""
 
 #. [message]: speaker=Galdrier
 #: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:239
+#, fuzzy
 msgid "We never attacked anyone!"
-msgstr ""
+msgstr "e qualquer outro que nos esquecemos..."
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:243
@@ -4738,8 +4977,9 @@ msgstr ""
 
 #. [message]: speaker=Galdrier
 #: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:251
+#, fuzzy
 msgid "Those unholy beasts!"
-msgstr ""
+msgstr "O que são estas coisas?"
 
 #. [message]: speaker=Xirasz
 #: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:255
@@ -4762,8 +5002,9 @@ msgstr ""
 
 #. [message]: speaker=Xirasz
 #: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:267
+#, fuzzy
 msgid "We izz with you!"
-msgstr ""
+msgstr "Iremos contigo."
 
 #. [message]: speaker=Galdrier
 #: Tale_of_a_Mage/scenarios/17_Battle_For_The_Swamps.cfg:271
@@ -4777,8 +5018,9 @@ msgstr ""
 
 #. [scenario]: id=18_Orcish_Supremacy
 #: Tale_of_a_Mage/scenarios/18_Orcish_Supremacy.cfg:3
+#, fuzzy
 msgid "Orcish Supremacy"
-msgstr ""
+msgstr "Bruxo Orco"
 
 #. [side]: type=Orcish Sovereign, id=Eruurk
 #. [unit]: id=Eruurk, type=Orcish Sovereign
@@ -4786,8 +5028,9 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/18_Orcish_Supremacy.cfg:320
 #: Tale_of_a_Mage/scenarios/19_The_Great_Council.cfg:39
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:42
+#, fuzzy
 msgid "Eruurk the Mighty"
-msgstr ""
+msgstr "Esse é um morcego poderoso!"
 
 #. [part]
 #: Tale_of_a_Mage/scenarios/18_Orcish_Supremacy.cfg:52
@@ -4822,13 +5065,15 @@ msgstr ""
 
 #. [message]: speaker=Arand
 #: Tale_of_a_Mage/scenarios/18_Orcish_Supremacy.cfg:125
+#, fuzzy
 msgid "Hail there."
-msgstr ""
+msgstr "Ir para..."
 
 #. [message]: speaker=Eruurk
 #: Tale_of_a_Mage/scenarios/18_Orcish_Supremacy.cfg:129
+#, fuzzy
 msgid "Ugh, what do you humans want?"
-msgstr ""
+msgstr "Aqui poderá escolher o que fazer:"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/18_Orcish_Supremacy.cfg:133
@@ -4891,18 +5136,20 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/18_Orcish_Supremacy.cfg:165
+#, fuzzy
 msgid "Very well, to arms men!"
-msgstr ""
+msgstr "Ás armas, anões (e homens)!"
 
 #. [unit]: id=Vogwyn, type=Death Knight
 #: Tale_of_a_Mage/scenarios/18_Orcish_Supremacy.cfg:206
 msgid "Vogwyn"
-msgstr ""
+msgstr "Vogwyn"
 
 #. [message]: speaker=Arand
 #: Tale_of_a_Mage/scenarios/18_Orcish_Supremacy.cfg:230
+#, fuzzy
 msgid "Alas, the undead are upon us!"
-msgstr ""
+msgstr "As lendas são verdade! Criaturas do mar estão a atacar-nos!"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/18_Orcish_Supremacy.cfg:234
@@ -4919,23 +5166,27 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: Tale_of_a_Mage/scenarios/18_Orcish_Supremacy.cfg:251
+#, fuzzy
 msgid "Undead kill the orcish leader"
-msgstr ""
+msgstr "Os Orcs mataram o líder dos Wesfolk"
 
 #. [message]: speaker=Eruurk
 #: Tale_of_a_Mage/scenarios/18_Orcish_Supremacy.cfg:265
+#, fuzzy
 msgid "What? Those traitorous scum!"
-msgstr ""
+msgstr "O que são estas coisas?"
 
 #. [message]: speaker=Eruurk
 #: Tale_of_a_Mage/scenarios/18_Orcish_Supremacy.cfg:279
+#, fuzzy
 msgid "Argh! I have fallen!"
-msgstr ""
+msgstr "Árvore Caída"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/18_Orcish_Supremacy.cfg:283
+#, fuzzy
 msgid "Our mission has failed."
-msgstr ""
+msgstr "A configuração do dispositivo foi mal-sucedida"
 
 #. [message]: speaker=second_unit
 #: Tale_of_a_Mage/scenarios/18_Orcish_Supremacy.cfg:302
@@ -4944,18 +5195,21 @@ msgstr ""
 
 #. [message]: speaker=Eruurk
 #: Tale_of_a_Mage/scenarios/18_Orcish_Supremacy.cfg:335
+#, fuzzy
 msgid "Very well, I will aid you."
-msgstr ""
+msgstr "Muito bem. Lutaremos-vos."
 
 #. [message]: speaker=second_unit
 #: Tale_of_a_Mage/scenarios/18_Orcish_Supremacy.cfg:346
+#, fuzzy
 msgid "Die, undead scum!"
-msgstr ""
+msgstr "Morram, escória orc!!!!"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/18_Orcish_Supremacy.cfg:350
+#, fuzzy
 msgid "And now for you..."
-msgstr ""
+msgstr "Está à procura um %s."
 
 #. [message]: speaker=Eruurk
 #: Tale_of_a_Mage/scenarios/18_Orcish_Supremacy.cfg:362
@@ -4974,14 +5228,15 @@ msgstr ""
 
 #. [scenario]: id=19_The_Great_Council
 #: Tale_of_a_Mage/scenarios/19_The_Great_Council.cfg:3
+#, fuzzy
 msgid "The Great Council"
-msgstr ""
+msgstr "Invoquei o grande conselho de Westin!"
 
 #. [side]: type=General, id=Rhubry
 #: Tale_of_a_Mage/scenarios/19_The_Great_Council.cfg:29
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:30
 msgid "Rhubry"
-msgstr ""
+msgstr "Rhubry"
 
 #. [side]: type=Fugitive, id=Gladoc
 #. [unit]: id=Gladoc, type=Fugitive
@@ -4991,7 +5246,7 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:107
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:139
 msgid "Gladoc"
-msgstr ""
+msgstr "Gladoc"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/19_The_Great_Council.cfg:82
@@ -5008,8 +5263,9 @@ msgstr ""
 #. [message]: speaker=Eruurk
 #: Tale_of_a_Mage/scenarios/19_The_Great_Council.cfg:90
 #: Tale_of_a_Mage/scenarios/19_The_Great_Council.cfg:106
+#, fuzzy
 msgid "I would suggest fighting."
-msgstr ""
+msgstr "<i>Batalha em curso...</i>"
 
 #. [message]: speaker=Rhubry
 #: Tale_of_a_Mage/scenarios/19_The_Great_Council.cfg:94
@@ -5070,33 +5326,37 @@ msgstr ""
 
 #. [message]: speaker=Rhubry
 #: Tale_of_a_Mage/scenarios/19_The_Great_Council.cfg:130
+#, fuzzy
 msgid "To battle!"
-msgstr ""
+msgstr "À batalha!"
 
 #. [message]: speaker=Eruurk
 #: Tale_of_a_Mage/scenarios/19_The_Great_Council.cfg:134
+#, fuzzy
 msgid "YES!"
-msgstr ""
+msgstr "&Sim"
 
 #. [message]: speaker=Galdrier
 #: Tale_of_a_Mage/scenarios/19_The_Great_Council.cfg:138
+#, fuzzy
 msgid "Onward!"
-msgstr ""
+msgstr "Rápido, homens! Em frente!"
 
 #. [message]: speaker=Xirasz
 #: Tale_of_a_Mage/scenarios/19_The_Great_Council.cfg:142
 msgid "Together!"
-msgstr ""
+msgstr "Juntos!"
 
 #. [scenario]: id=20_Shadows
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:3
+#, fuzzy
 msgid "Shadows"
-msgstr ""
+msgstr "Sombras"
 
 #. [side]: type=General, id=Cilthanthier
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:103
 msgid "Cilthanthier"
-msgstr ""
+msgstr "Cilthanthier"
 
 #. [side]: type=Doom Lich, id=Mal-Caryn
 #. [unit]: id=Mal-Caryn, type=Doom Lich
@@ -5104,30 +5364,34 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/23_1_Tyrant.cfg:164
 #: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:123
 #: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:29
+#, fuzzy
 msgid "Mal-Caryn"
-msgstr ""
+msgstr "Haf-Mal"
 
 #. [objective]: condition=win
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:138
 #: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:64
+#, fuzzy
 msgid "Defeat Mal-Caryn"
-msgstr ""
+msgstr "Derrote Mal M’Brin"
 
 #. [objective]: condition=lose
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:154
 #: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:80
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:92
 #: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:159
+#, fuzzy
 msgid "Death of Ana'sar"
-msgstr ""
+msgstr "Chinês (Macau SAR)"
 
 #. [objective]: condition=lose
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:158
 #: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:84
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:96
 #: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:163
+#, fuzzy
 msgid "Death of Eldaric"
-msgstr ""
+msgstr "Morte do Rei Eldaric"
 
 #. [message]: speaker=Mal-Caryn
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:180
@@ -5145,8 +5409,9 @@ msgstr ""
 
 #. [message]: speaker=Mal-Caryn
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:188
+#, fuzzy
 msgid "Dragons can be tamed?"
-msgstr ""
+msgstr "%i pacote pode ser actualizado."
 
 #. [message]: speaker=Gladoc
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:192
@@ -5155,8 +5420,9 @@ msgstr ""
 
 #. [message]: speaker=Mal-Caryn
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:196
+#, fuzzy
 msgid "Well then, where ARE they."
-msgstr ""
+msgstr "bem onde estão situados?"
 
 #. [message]: speaker=Gladoc
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:200
@@ -5170,8 +5436,9 @@ msgstr ""
 
 #. [message]: speaker=Gladoc
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:208
+#, fuzzy
 msgid "I understand, sir."
-msgstr ""
+msgstr "Sim, senhor!"
 
 #. [message]: speaker=narrator
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:218
@@ -5180,13 +5447,14 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:222
+#, fuzzy
 msgid "Now!"
-msgstr ""
+msgstr "Agora"
 
 #. [message]: speaker=Mal-Caryn
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:226
 msgid "!!!"
-msgstr ""
+msgstr "!!!"
 
 #. [message]: speaker=Elycla
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:230
@@ -5205,8 +5473,9 @@ msgstr ""
 
 #. [message]: speaker=Mal-Caryn
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:242
+#, fuzzy
 msgid "Silence you two!"
-msgstr ""
+msgstr "Quieto!"
 
 #. [message]: speaker=Elycla
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:246
@@ -5215,13 +5484,15 @@ msgstr ""
 
 #. [message]: speaker=Rhubry
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:250
+#, fuzzy
 msgid "Charge!"
-msgstr ""
+msgstr "Avançar!"
 
 #. [message]: speaker=Mal-Caryn
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:254
+#, fuzzy
 msgid "Fools! I will squash you like bugs!"
-msgstr ""
+msgstr "Idiotas! Iremos chutar-vos como cães!"
 
 #. [message]: speaker=Leogwyn
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:262
@@ -5231,13 +5502,15 @@ msgstr ""
 
 #. [message]: speaker=Elycla
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:266
+#, fuzzy
 msgid "He is dead."
-msgstr ""
+msgstr "Demasiado tarde, morreu."
 
 #. [message]: speaker=Mal-Caryn
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:270
+#, fuzzy
 msgid "Shut up, both of you!"
-msgstr ""
+msgstr "Calam-se, todos! Atacam-os! "
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:274
@@ -5246,33 +5519,39 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:278
+#, fuzzy
 msgid "Obviously not those two."
-msgstr ""
+msgstr "As duas distâncias não são as mesmas."
 
 #. [message]: speaker=Mal-Caryn
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:282
+#, fuzzy
 msgid "Not a word, any of you!"
-msgstr ""
+msgstr "Você não tem nenhuma conta."
 
 #. [message]: speaker=Mal-Caryn
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:290
+#, fuzzy
 msgid "I'm warning you, not a word!"
-msgstr ""
+msgstr "endereço não alinha palavra"
 
 #. [message]: speaker=Leogwyn
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:294
+#, fuzzy
 msgid "Moo."
-msgstr ""
+msgstr "Moo"
 
 #. [message]: speaker=Leogwyn
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:305
+#, fuzzy
 msgid "Stupid Lich..."
-msgstr ""
+msgstr "Lich Aracnídeo"
 
 #. [message]: speaker=Elycla
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:316
+#, fuzzy
 msgid "Sweet relief..."
-msgstr ""
+msgstr "Estilo de Relevo"
 
 #. [message]: speaker=narrator
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:327
@@ -5281,13 +5560,15 @@ msgstr ""
 
 #. [message]: speaker=second_unit
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:332
+#, fuzzy
 msgid "Die!"
-msgstr ""
+msgstr "Morra!"
 
 #. [message]: speaker=unit
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:341
+#, fuzzy
 msgid "???"
-msgstr ""
+msgstr "???"
 
 #. [message]: speaker=Mal-Caryn
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:345
@@ -5303,13 +5584,14 @@ msgstr ""
 
 #. [message]: speaker=second_unit
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:354
+#, fuzzy
 msgid "Oh, no you don't..."
-msgstr ""
+msgstr "Sabes, e não sabes?"
 
 #. [message]: speaker=Mal-Caryn
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:363
 msgid "Aarrghh!"
-msgstr ""
+msgstr "Aarrghh!"
 
 #. [message]: speaker=second_unit
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:367
@@ -5318,13 +5600,15 @@ msgstr ""
 
 #. [message]: speaker=Mal-Caryn
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:371
+#, fuzzy
 msgid "Careful with that!"
-msgstr ""
+msgstr "Seja cuidadoso com as árvores"
 
 #. [message]: speaker=second_unit
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:375
+#, fuzzy
 msgid "Really? Hmm..."
-msgstr ""
+msgstr "Ah, hmm..."
 
 #. [message]: speaker=narrator
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:379
@@ -5333,8 +5617,9 @@ msgstr ""
 
 #. [message]: speaker=Mal-Caryn
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:384
+#, fuzzy
 msgid "NO!"
-msgstr ""
+msgstr "NÃO!"
 
 #. [message]: speaker=narrator
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:388
@@ -5355,8 +5640,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:401
+#, fuzzy
 msgid "I know. Retreat! Retreat!"
-msgstr ""
+msgstr "Achas que devo fugir?"
 
 #. [message]: speaker=Mal-Caryn
 #: Tale_of_a_Mage/scenarios/20_Shadows.cfg:405
@@ -5365,8 +5651,9 @@ msgstr ""
 
 #. [scenario]: id=21_The_Knalgans
 #: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:3
+#, fuzzy
 msgid "The Knalgans"
-msgstr ""
+msgstr "Knalganos"
 
 #. [part]
 #: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:37
@@ -5395,7 +5682,7 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:149
 #: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:58
 msgid "Burgel"
-msgstr ""
+msgstr "Burgel"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:126
@@ -5428,8 +5715,9 @@ msgstr ""
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:146
+#, fuzzy
 msgid "Now wait just a mo-"
-msgstr ""
+msgstr "Bem, agora só temos de esperar..."
 
 #. [message]: speaker=Burgel
 #: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:150
@@ -5438,13 +5726,15 @@ msgstr ""
 
 #. [message]: speaker=Arand
 #: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:154
+#, fuzzy
 msgid "Um..."
-msgstr ""
+msgstr "Hmm, bem..."
 
 #. [message]: speaker=Burgel
 #: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:158
+#, fuzzy
 msgid "We'll fight to the last! We-"
-msgstr ""
+msgstr "... Já chega, cavalheiros, temos uma batalha para lutar!"
 
 #. [side]: type=Dwarvish Lord, id=Durwin
 #. [unit]: type=Dwarvish Lord, id=Durwin
@@ -5452,12 +5742,13 @@ msgstr ""
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:159
 #: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:31
 msgid "Durwin"
-msgstr ""
+msgstr "Durwin"
 
 #. [message]: speaker=Durwin
 #: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:172
+#, fuzzy
 msgid "Burgel! Stop this now!"
-msgstr ""
+msgstr "_Executar esta acção agora"
 
 #. [message]: speaker=Burgel
 #: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:176
@@ -5483,8 +5774,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:192
+#, fuzzy
 msgid "Yes, unfortunately."
-msgstr ""
+msgstr "sim: %@ @ %@ kb/s"
 
 #. [message]: speaker=Durwin
 #: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:196
@@ -5524,13 +5816,15 @@ msgstr ""
 
 #. [message]: speaker=Arand
 #: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:220
+#, fuzzy
 msgid "Listen you, I-"
-msgstr ""
+msgstr "Idiota..."
 
 #. [message]: speaker=Ana'sar
 #: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:224
+#, fuzzy
 msgid "We'll pay."
-msgstr ""
+msgstr "Veremos."
 
 #. [message]: speaker=Durwin
 #: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:228
@@ -5557,7 +5851,7 @@ msgstr ""
 #. [message]: speaker=Burgel
 #: Tale_of_a_Mage/scenarios/21_The_Knalgans.cfg:244
 msgid "Hrmph!"
-msgstr ""
+msgstr "Hrmph!"
 
 #. [scenario]: id=22_Legends_of_the_Dwerrows
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:3
@@ -5566,8 +5860,9 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:76
+#, fuzzy
 msgid "Defeat enemy leaders."
-msgstr ""
+msgstr "Derrotar líderes inimigos"
 
 #. [message]: speaker=Durwin
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:168
@@ -5578,13 +5873,14 @@ msgstr ""
 
 #. [message]: speaker=Ana'sar
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:172
+#, fuzzy
 msgid "We thank you for your hospitality."
-msgstr ""
+msgstr "Relatório de erro enviado, obrigado pela colaboração."
 
 #. [message]: speaker=Burgel
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:176
 msgid "Hmph!"
-msgstr ""
+msgstr "Hmph!"
 
 #. [message]: speaker=Durwin
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:185
@@ -5595,8 +5891,9 @@ msgstr ""
 
 #. [message]: speaker=Durwin
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:189
+#, fuzzy
 msgid "Follow me."
-msgstr ""
+msgstr "Perguntar"
 
 #. [message]: speaker=Durwin
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:200
@@ -5605,8 +5902,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:204
+#, fuzzy
 msgid "Here it is."
-msgstr ""
+msgstr "Está a Correr?"
 
 #. [message]: speaker=Durwin
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:208
@@ -5634,8 +5932,9 @@ msgstr ""
 
 #. [message]: speaker=Ana'sar
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:224
+#, fuzzy
 msgid "That is what we came for."
-msgstr ""
+msgstr "E lá vamos nós... Éla, o que é esse cheiro!"
 
 #. [message]: speaker=Durwin
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:228
@@ -5651,8 +5950,9 @@ msgstr ""
 
 #. [message]: speaker=Durwin
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:236
+#, fuzzy
 msgid "Yes...why do you ask?"
-msgstr ""
+msgstr "Não, eu não posso pedir que você faça isso."
 
 #. [message]: speaker=Eldaric
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:240
@@ -5664,8 +5964,9 @@ msgstr ""
 
 #. [message]: speaker=Ana'sar
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:244
+#, fuzzy
 msgid "Eldaric!"
-msgstr ""
+msgstr "Rei Eldaric IV"
 
 #. [message]: speaker=Eldaric
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:248
@@ -5681,8 +5982,9 @@ msgstr ""
 
 #. [message]: speaker=Eldaric
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:256
+#, fuzzy
 msgid "I find no alternative."
-msgstr ""
+msgstr "Saltar alternativa %s desconhecida."
 
 #. [message]: speaker=Arand
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:260
@@ -5697,13 +5999,15 @@ msgstr ""
 
 #. [message]: speaker=Durwin
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:272
+#, fuzzy
 msgid "We're keeping guard."
-msgstr ""
+msgstr "Vamos todos morrer."
 
 #. [message]: speaker=Arand
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:276
+#, fuzzy
 msgid "Over what?"
-msgstr ""
+msgstr "Novidades"
 
 #. [message]: speaker=Durwin
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:323
@@ -5727,8 +6031,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:335
+#, fuzzy
 msgid "Why are you here then?"
-msgstr ""
+msgstr "Err... Ethiliel? Estás aí?"
 
 #. [message]: speaker=Durwin
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:339
@@ -5759,8 +6064,9 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:366
+#, fuzzy
 msgid "It's a deal."
-msgstr ""
+msgstr "Está terminado."
 
 #. [message]: speaker=Durwin
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:377
@@ -5776,13 +6082,15 @@ msgstr ""
 
 #. [message]: speaker=Ana'sar
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:416
+#, fuzzy
 msgid "(gold)"
-msgstr ""
+msgstr "Ouro"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/22_Legends_of_the_Dwerrows.cfg:439
+#, fuzzy
 msgid "Let us hurry."
-msgstr ""
+msgstr "Muito bem, vamos depressa!"
 
 #. [scenario]: id=23_1_Tyrant
 #: Tale_of_a_Mage/scenarios/23_1_Tyrant.cfg:3
@@ -5809,35 +6117,40 @@ msgstr ""
 
 #. [message]: role=stalwart1
 #: Tale_of_a_Mage/scenarios/23_1_Tyrant.cfg:69
+#, fuzzy
 msgid "What was that?"
-msgstr ""
+msgstr "O que foi isto?"
 
 #. [message]: role=stalwart2
 #: Tale_of_a_Mage/scenarios/23_1_Tyrant.cfg:73
+#, fuzzy
 msgid "I don't know..."
-msgstr ""
+msgstr "Sabes, e não sabes?"
 
 #. [message]: role=stalwart2
 #: Tale_of_a_Mage/scenarios/23_1_Tyrant.cfg:97
+#, fuzzy
 msgid "Wh-what is it?"
-msgstr ""
+msgstr "Não, não tenho. O que é?"
 
 #. [message]: role=stalwart1
 #: Tale_of_a_Mage/scenarios/23_1_Tyrant.cfg:133
 msgid "Aagh!"
-msgstr ""
+msgstr "Aagh!"
 
 #. [scenario]: id=24_The_Last_Battle
 #: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:3
+#, fuzzy
 msgid "The Last Battle"
-msgstr ""
+msgstr "VotA_06-A Ultima batalha"
 
 #. [side]: type=Lich, id=Squidget
 #. [unit]: type=Lich, id=Squidget
 #: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:111
 #: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:57
+#, fuzzy
 msgid "Mal-Poffin"
-msgstr ""
+msgstr "Haf-Mal"
 
 #. [objective]: condition=win
 #: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:143
@@ -5866,18 +6179,21 @@ msgstr ""
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:204
+#, fuzzy
 msgid "Like what?"
-msgstr ""
+msgstr "E como são os anões?"
 
 #. [message]: speaker=Mal-Caryn
 #: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:208
+#, fuzzy
 msgid "(Laughs maniacally)"
-msgstr ""
+msgstr "O Bolderano desata a rir ..."
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:212
+#, fuzzy
 msgid "(Face-palm)"
-msgstr ""
+msgstr "Palm Springs"
 
 #. [message]: speaker=Arand
 #: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:216
@@ -5901,8 +6217,9 @@ msgstr ""
 
 #. [message]: speaker=Durwin
 #: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:232
+#, fuzzy
 msgid "No, Burgel, no!"
-msgstr ""
+msgstr "Sem nome de ficheiro"
 
 #. [message]: speaker=Burgel
 #: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:266
@@ -5911,8 +6228,9 @@ msgstr ""
 
 #. [message]: speaker=Durwin
 #: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:270
+#, fuzzy
 msgid "No...Burgel..."
-msgstr ""
+msgstr "Sem nome de ficheiro"
 
 #. [message]: speaker=Ana'sar
 #: Tale_of_a_Mage/scenarios/24_The_Last_Battle.cfg:274
@@ -5931,13 +6249,15 @@ msgstr ""
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:77
+#, fuzzy
 msgid "Are you done yet?"
-msgstr ""
+msgstr "Quando terminar as alterações..."
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:81
+#, fuzzy
 msgid "Almost! Give me a moment!"
-msgstr ""
+msgstr "Agora dá-me o livro a mim."
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:90
@@ -5946,23 +6266,27 @@ msgstr ""
 
 #. [message]: speaker=Squidget
 #: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:133
+#, fuzzy
 msgid "Come here, my pretty!"
-msgstr ""
+msgstr "Os meus reforços vieram!"
 
 #. [message]: speaker=narrator
 #: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:138
+#, fuzzy
 msgid "Unhand me, you abomination!"
-msgstr ""
+msgstr "Argh, atacaste-me!"
 
 #. [message]: speaker=Eldaric
 #: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:144
+#, fuzzy
 msgid "Get your hands of her!"
-msgstr ""
+msgstr "Obter uma dica para a próxima jogada"
 
 #. [unstore_unit]
 #: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:161
+#, fuzzy
 msgid "Frozen"
-msgstr ""
+msgstr "Congelado"
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:173
@@ -5971,23 +6295,27 @@ msgstr ""
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:177
+#, fuzzy
 msgid "I'm working on it!"
-msgstr ""
+msgstr "Vamos!"
 
 #. [message]: speaker=Mal-Caryn
 #: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:181
+#, fuzzy
 msgid "Stand aside, little prince!"
-msgstr ""
+msgstr "Fica para trás. Farei o que tem que ser feito."
 
 #. [message]: speaker=Arand
 #: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:185
+#, fuzzy
 msgid "Back off, Lich!"
-msgstr ""
+msgstr "O Lich é Agnovon?"
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:207
+#, fuzzy
 msgid "<span font-style='italic'>DILLON</span>..."
-msgstr ""
+msgstr "Estilo de fonte como uma PangoStyle, por ex. PANGO_STYLE_ITALIC"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:211
@@ -5997,7 +6325,7 @@ msgstr ""
 #. [message]: speaker=Mal-Caryn
 #: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:216
 msgid "(Hiss)"
-msgstr ""
+msgstr "(Hess)"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:220
@@ -6023,8 +6351,9 @@ msgstr ""
 
 #. [message]: speaker=Mal-Caryn
 #: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:293
+#, fuzzy
 msgid "Wha-!? How!?"
-msgstr ""
+msgstr "_Mostrar controlos"
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:297
@@ -6041,17 +6370,19 @@ msgstr ""
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:494
 msgid "Aiee!"
-msgstr ""
+msgstr "Aiee!"
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/scenarios/25_Lichbane.cfg:504
+#, fuzzy
 msgid "Eh... A little help here?"
-msgstr ""
+msgstr "Aqui, isto irá ajudá-la."
 
 #. [scenario]: id=Epilogue
 #: Tale_of_a_Mage/scenarios/epilogue.cfg:3
+#, fuzzy
 msgid "Epilogue"
-msgstr ""
+msgstr "Epílogo"
 
 #. [part]
 #: Tale_of_a_Mage/scenarios/epilogue.cfg:27
@@ -6112,8 +6443,9 @@ msgstr ""
 
 #. [unit_type]: id=Advanced Apprentice Mage, race=human
 #: Tale_of_a_Mage/units/Advanced_Apprentice_Mage.cfg:5
+#, fuzzy
 msgid "Advanced Apprentice Mage"
-msgstr ""
+msgstr "<i>A Cerimonia do Novo Mago</i>"
 
 #. [unit_type]: id=Advanced Apprentice Mage, race=human
 #: Tale_of_a_Mage/units/Advanced_Apprentice_Mage.cfg:20
@@ -6129,19 +6461,22 @@ msgstr ""
 #: Tale_of_a_Mage/units/Legendary_Mage.cfg:33
 #: Tale_of_a_Mage/units/Mystical_Mage.cfg:33
 #: Tale_of_a_Mage/units/Peasant_Wife.cfg:100
+#, fuzzy
 msgid "staff"
-msgstr ""
+msgstr "bastão"
 
 #. [attack]: type=fire
 #: Tale_of_a_Mage/units/Advanced_Apprentice_Mage.cfg:34
 #: Tale_of_a_Mage/units/Apprentice_Mage.cfg:35
+#, fuzzy
 msgid "magic puff"
-msgstr ""
+msgstr "míssil gelado"
 
 #. [unit_type]: id=Apprentice Mage, race=human
 #: Tale_of_a_Mage/units/Apprentice_Mage.cfg:5
+#, fuzzy
 msgid "Apprentice Mage"
-msgstr ""
+msgstr "Mago Aprendiz"
 
 #. [unit_type]: id=Apprentice Mage, race=human
 #: Tale_of_a_Mage/units/Apprentice_Mage.cfg:19
@@ -6154,13 +6489,15 @@ msgstr ""
 
 #. [female]
 #: Tale_of_a_Mage/units/Apprentice_Mage.cfg:117
+#, fuzzy
 msgid "female^Apprentice Mage"
-msgstr ""
+msgstr "Arqui-Maga"
 
 #. [unit_type]: id=Battle Prince, race=human
 #: Tale_of_a_Mage/units/Battle_Prince.cfg:4
+#, fuzzy
 msgid "^Battle Prince"
-msgstr ""
+msgstr "Príncipe de Wesnoth"
 
 #. [unit_type]: id=Battle Prince, race=human
 #: Tale_of_a_Mage/units/Battle_Prince.cfg:31
@@ -6177,22 +6514,29 @@ msgstr ""
 #: Tale_of_a_Mage/units/Fighteress.cfg:24
 #: Tale_of_a_Mage/units/Junior_Prince.cfg:23 Tale_of_a_Mage/units/King.cfg:35
 #: Tale_of_a_Mage/units/Lord.cfg:34 Tale_of_a_Mage/units/Prince.cfg:31
+#, fuzzy
 msgid "sword"
-msgstr ""
+msgstr "espada"
 
 #. [unit_type]: id=Battle Princess, race=human
 #: Tale_of_a_Mage/units/Battle_Princess.cfg:4
+#, fuzzy
 msgid "female^Battle Princess"
-msgstr ""
+msgstr "Princesa de Batalha"
 
 #. [unit_type]: id=Battle Princess, race=human
 #: Tale_of_a_Mage/units/Battle_Princess.cfg:31
+#, fuzzy
 msgid ""
 "A noble by birth, the Princess has learnt swordplay with the greatest "
 "generals, and battle tactics with the greatest sages, making her both a "
 "great combatant and leader. Now battle-hardened and strong of will, she can "
 "now aid those around her in the art of combat."
 msgstr ""
+"Nobre de berço, a Princesa aprendeu a manejar a espada com os maiores "
+"generais, e tácticas de batalhas com os grandes sábios, a fazer dela tanto "
+"uma grande combatente quanto líder. Experiente em combate e forte de "
+"espírito, pode ajudar aqueles ao redor dela na arte do combate."
 
 #. [attack]: type=blade
 #: Tale_of_a_Mage/units/Battle_Princess.cfg:35
@@ -6200,18 +6544,21 @@ msgstr ""
 #: Tale_of_a_Mage/units/Junior_Princess.cfg:23
 #: Tale_of_a_Mage/units/Lady.cfg:33 Tale_of_a_Mage/units/Princess.cfg:33
 #: Tale_of_a_Mage/units/Queen.cfg:35
+#, fuzzy
 msgid "saber"
-msgstr ""
+msgstr "sabre"
 
 #. [unit_type]: id=Commander, race=human
 #: Tale_of_a_Mage/units/Commander.cfg:5
+#, fuzzy
 msgid "Commander"
-msgstr ""
+msgstr "Comandante"
 
 #. [unit_type]: id=Commander, race=human
 #. [unit_type]: id=CommanderF, race=human
 #: Tale_of_a_Mage/units/Commander.cfg:27
 #: Tale_of_a_Mage/units/CommanderF.cfg:27
+#, fuzzy
 msgid ""
 "The rank of Commander is held by those who lead battle groups into combat. "
 "Possessing leadership skills, they give lower-level units in adjacent hexes "
@@ -6219,31 +6566,44 @@ msgid ""
 "although they also carry a bow to use when necessary. If the Commander is "
 "lost, so is the battle."
 msgstr ""
+"O título de Comandante é dado àqueles que lideram grupos de combate em "
+"batalha. Como um líder, melhora o desempenho em combate das unidades de "
+"baixo nível ao seu redor. Comandantes são mais habilidosos com a espada, "
+"embora também carrecam um arco para quando for necessário. Se o Comandante "
+"morre, o exército perde a batalha."
 
 #. [attack]: type=pierce
 #: Tale_of_a_Mage/units/Commander.cfg:40 Tale_of_a_Mage/units/King.cfg:44
 #: Tale_of_a_Mage/units/Lord.cfg:43
+#, fuzzy
 msgid "bow"
-msgstr ""
+msgstr "arco"
 
 #. [unit_type]: id=CommanderF, race=human
 #: Tale_of_a_Mage/units/CommanderF.cfg:5
+#, fuzzy
 msgid "female^Commander"
-msgstr ""
+msgstr "Applet Mini-Commander"
 
 #. [unit_type]: id=SoullessNP, race=undead
 #: Tale_of_a_Mage/units/Corpse_Soulless_No_Plague.cfg:7
+#, fuzzy
 msgid "Soulless"
-msgstr ""
+msgstr "Sem-Alma"
 
 #. [unit_type]: id=SoullessNP, race=undead
 #: Tale_of_a_Mage/units/Corpse_Soulless_No_Plague.cfg:24
+#, fuzzy
 msgid ""
 "The technique of animating a dead body is unfortunately well-known to the "
 "dark arts; practitioners often use it to raise servants and soldiers from "
 "unwilling corpses. These shamblers are often numerous, but fragile; a touch "
 "of combat can waken them, though, making them far more formidable."
 msgstr ""
+"A técnica de animar um corpo morto é infelizmente bem conhecido nas artes "
+"negras; praticantes muitas vezes a usam para erguer servos e combatentes a "
+"partir de cadáveres. Aparecem frequentemente em grandes números, mas são "
+"frágeis; um toque em combate pode acordar-os, fazendo-os bem mais úteis."
 
 #. [attack]: type=cold
 #. [attack]: type=fire
@@ -6252,26 +6612,33 @@ msgstr ""
 #: Tale_of_a_Mage/units/Corpse_Walking_No_Plague.cfg:76
 #: Tale_of_a_Mage/units/Fire_Ghost.cfg:46
 #: Tale_of_a_Mage/units/Ice_Sprite.cfg:123
+#, fuzzy
 msgid "touch"
-msgstr ""
+msgstr "toque"
 
 #. [unit_type]: id=Walking CorpseNP, race=undead
 #: Tale_of_a_Mage/units/Corpse_Walking_No_Plague.cfg:9
+#, fuzzy
 msgid "Walking Corpse"
-msgstr ""
+msgstr "Cadáver Ambulante"
 
 #. [unit_type]: id=Walking CorpseNP, race=undead
 #: Tale_of_a_Mage/units/Corpse_Walking_No_Plague.cfg:25
+#, fuzzy
 msgid ""
 "Walking Corpses are the bodies of the dead, re-animated by dark magic. "
 "Though not especially dangerous to a trained soldier, the sight of one's "
 "former comrades amongst their number is frightening to say the least."
 msgstr ""
+"Cadáveres ambulantes são os corpos dos mortos, reanimados por magia negra. "
+"Apesar de não serem muito perigosos para um combatente treinado, a visão de "
+"um dos seus antigos camaradas entre as suas hordas é ao menos temível."
 
 #. [unit_type]: id=Elite Mage, race=human
 #: Tale_of_a_Mage/units/Elite_Mage.cfg:4
+#, fuzzy
 msgid "Elite Mage"
-msgstr ""
+msgstr "Grande Mago"
 
 #. [unit_type]: id=Elite Mage, race=human
 #: Tale_of_a_Mage/units/Elite_Mage.cfg:18
@@ -6285,32 +6652,40 @@ msgstr ""
 #: Tale_of_a_Mage/units/Elite_Mage.cfg:39
 #: Tale_of_a_Mage/units/Legendary_Mage.cfg:42
 #: Tale_of_a_Mage/units/Mystical_Mage.cfg:42
+#, fuzzy
 msgid "fireball"
-msgstr ""
+msgstr "bola de fogo"
 
 #. [unit_type]: id=Fighter, race=human
 #: Tale_of_a_Mage/units/Fighter.cfg:5
+#, fuzzy
 msgid "Fighter"
-msgstr ""
+msgstr "Soldado"
 
 #. [unit_type]: id=Fighter, race=human
 #. [unit_type]: id=Fighteress, race=human
 #: Tale_of_a_Mage/units/Fighter.cfg:19 Tale_of_a_Mage/units/Fighteress.cfg:19
+#, fuzzy
 msgid ""
 "Young and brash, Fighters attack with a sword, and are vulnerable to more "
 "seasoned enemies. However they have the potential to become great warriors "
 "one day."
 msgstr ""
+"Jovens e irresponsáveis, Soldados carregam uma espada, e são vulneráveis a "
+"ataques à distância dos inimigos. Porém têm o potencial de se tornar grandes "
+"guerreiros um dia."
 
 #. [unit_type]: id=Fighteress, race=human
 #: Tale_of_a_Mage/units/Fighteress.cfg:5
+#, fuzzy
 msgid "female^Fighteress"
-msgstr ""
+msgstr "atordoada"
 
 #. [unit_type]: id=Fire Ghost, race=monster
 #: Tale_of_a_Mage/units/Fire_Ghost.cfg:5
+#, fuzzy
 msgid "Fire Ghost"
-msgstr ""
+msgstr "Fantasma Anão"
 
 #. [unit_type]: id=Fire Ghost, race=monster
 #: Tale_of_a_Mage/units/Fire_Ghost.cfg:26
@@ -6324,13 +6699,15 @@ msgstr ""
 
 #. [attack]: type=fire
 #: Tale_of_a_Mage/units/Fire_Ghost.cfg:55
+#, fuzzy
 msgid "breath"
-msgstr ""
+msgstr "sopro de fogo"
 
 #. [unit_type]: id=Ice Sprite, race=monster
 #: Tale_of_a_Mage/units/Ice_Sprite.cfg:7
+#, fuzzy
 msgid "Ice Sprite"
-msgstr ""
+msgstr "míssil gelado"
 
 #. [unit_type]: id=Ice Sprite, race=monster
 #: Tale_of_a_Mage/units/Ice_Sprite.cfg:19
@@ -6348,8 +6725,9 @@ msgstr ""
 
 #. [unit_type]: id=Junior Prince, race=human
 #: Tale_of_a_Mage/units/Junior_Prince.cfg:5
+#, fuzzy
 msgid "Junior Prince"
-msgstr ""
+msgstr "Príncipe de Wesnoth"
 
 #. [unit_type]: id=Junior Prince, race=human
 #: Tale_of_a_Mage/units/Junior_Prince.cfg:19
@@ -6362,8 +6740,9 @@ msgstr ""
 
 #. [unit_type]: id=Junior Princess, race=human
 #: Tale_of_a_Mage/units/Junior_Princess.cfg:5
+#, fuzzy
 msgid "female^Junior Princess"
-msgstr ""
+msgstr "Princesa de Batalha"
 
 #. [unit_type]: id=Junior Princess, race=human
 #: Tale_of_a_Mage/units/Junior_Princess.cfg:19
@@ -6376,8 +6755,9 @@ msgstr ""
 
 #. [unit_type]: id=King, race=human
 #: Tale_of_a_Mage/units/King.cfg:5
+#, fuzzy
 msgid "King"
-msgstr ""
+msgstr "Rei"
 
 #. [unit_type]: id=King, race=human
 #: Tale_of_a_Mage/units/King.cfg:29
@@ -6388,8 +6768,9 @@ msgstr ""
 
 #. [unit_type]: id=Lady, race=human
 #: Tale_of_a_Mage/units/Lady.cfg:5
+#, fuzzy
 msgid "Lady"
-msgstr ""
+msgstr "Lady Dionli"
 
 #. [unit_type]: id=Lady, race=human
 #: Tale_of_a_Mage/units/Lady.cfg:28
@@ -6401,8 +6782,9 @@ msgstr ""
 
 #. [unit_type]: id=Legendary Mage, race=human
 #: Tale_of_a_Mage/units/Legendary_Mage.cfg:4
+#, fuzzy
 msgid "Legendary Mage"
-msgstr ""
+msgstr "Grande Mago"
 
 #. [unit_type]: id=Legendary Mage, race=human
 #: Tale_of_a_Mage/units/Legendary_Mage.cfg:19
@@ -6415,27 +6797,35 @@ msgstr ""
 #. [attack]: type=arcane
 #: Tale_of_a_Mage/units/Legendary_Mage.cfg:53
 #: Tale_of_a_Mage/units/Mystical_Mage.cfg:53
+#, fuzzy
 msgid "lightbeam"
-msgstr ""
+msgstr "raio de luz"
 
 #. [unit_type]: id=Lord, race=human
 #: Tale_of_a_Mage/units/Lord.cfg:5
+#, fuzzy
 msgid "Lord"
-msgstr ""
+msgstr "Senhor"
 
 #. [unit_type]: id=Lord, race=human
 #: Tale_of_a_Mage/units/Lord.cfg:28
+#, fuzzy
 msgid ""
 "The noble leaders of many troops, Lords are especially strong in melee "
 "combat, and also possess skill with the bow. Like Commanders, Lords possess "
 "leadership skills, and improve the fighting ability of all adjacent lower-"
 "level units."
 msgstr ""
+"Um nobre líder de muitas tropas, Senhores são especialmente fortes em "
+"combate corpo a corpo, e também sabem utilizar o arco. Como Comandantes, "
+"Senhores possuem a habilidades de liderança, e melhoram a capacidade de "
+"combate de unidades de baixo nível adjacentes."
 
 #. [unit_type]: id=Mystical Mage, race=human
 #: Tale_of_a_Mage/units/Mystical_Mage.cfg:4
+#, fuzzy
 msgid "Mystical Mage"
-msgstr ""
+msgstr "Grande Mago"
 
 #. [unit_type]: id=Mystical Mage, race=human
 #: Tale_of_a_Mage/units/Mystical_Mage.cfg:18
@@ -6453,8 +6843,9 @@ msgstr ""
 #: Tale_of_a_Mage/units/Peasant_Child.cfg:7
 #: Tale_of_a_Mage/units/Peasant_Child.cfg:25
 #: Tale_of_a_Mage/units/Peasant_Child.cfg:192
+#, fuzzy
 msgid "Peasant Child"
-msgstr ""
+msgstr "Compactar filho"
 
 #. [male]: race=human
 #. [unit_type]: id=Peasant Child, race=human
@@ -6469,18 +6860,21 @@ msgstr ""
 #: Tale_of_a_Mage/units/Peasant_Child.cfg:62
 #: Tale_of_a_Mage/units/Peasant_Child.cfg:138
 #: Tale_of_a_Mage/units/Peasant_Child.cfg:228
+#, fuzzy
 msgid "small knife"
-msgstr ""
+msgstr "<small>Opaco</small>"
 
 #. [female]
 #: Tale_of_a_Mage/units/Peasant_Child.cfg:114
+#, fuzzy
 msgid "female^Peasant Child"
-msgstr ""
+msgstr "Camponesa Jovem"
 
 #. [unit_type]: id=Peasant Wife, race=human
 #: Tale_of_a_Mage/units/Peasant_Wife.cfg:5
+#, fuzzy
 msgid "Peasant Wife"
-msgstr ""
+msgstr "Jovem aldeão"
 
 #. [unit_type]: id=Peasant Wife, race=human
 #: Tale_of_a_Mage/units/Peasant_Wife.cfg:27
@@ -6498,8 +6892,9 @@ msgstr ""
 
 #. [unit_type]: id=Prince, race=human
 #: Tale_of_a_Mage/units/Prince.cfg:5
+#, fuzzy
 msgid "Prince"
-msgstr ""
+msgstr "Príncipe de Wesnoth"
 
 #. [unit_type]: id=Prince, race=human
 #: Tale_of_a_Mage/units/Prince.cfg:27
@@ -6513,11 +6908,13 @@ msgstr ""
 
 #. [unit_type]: id=Princess, race=human
 #: Tale_of_a_Mage/units/Princess.cfg:5
+#, fuzzy
 msgid "female^Princess"
-msgstr ""
+msgstr "Princesa"
 
 #. [unit_type]: id=Princess, race=human
 #: Tale_of_a_Mage/units/Princess.cfg:29
+#, fuzzy
 msgid ""
 "A noble by birth, the Princess has learnt swordplay with the greatest "
 "generals and battle tactics with the greatest sages, making her both a great "
@@ -6525,11 +6922,17 @@ msgid ""
 "fight better due to her presence. The Princess is also nimble and dextrous, "
 "having skills like that of a thief."
 msgstr ""
+"Nobre de berço, a Princesa aprendeu a arte da espada com os maiores "
+"generais, e tácticas de batalha com os maiores sábios, a fazer dela uma "
+"grande combatente e uma líder. As unidades de baixo nível ao redor da "
+"Princesa lutarão melhor devido à sua presença. A Princesa é também hábil e "
+"ágil, tendo habilidades como as de um ladrão."
 
 #. [unit_type]: id=Queen, race=human
 #: Tale_of_a_Mage/units/Queen.cfg:5
+#, fuzzy
 msgid "female^Queen"
-msgstr ""
+msgstr "Rainha Maléfica"
 
 #. [unit_type]: id=Queen, race=human
 #: Tale_of_a_Mage/units/Queen.cfg:31
@@ -6541,13 +6944,15 @@ msgstr ""
 
 #. [attack]: type=fire
 #: Tale_of_a_Mage/units/Queen.cfg:44
+#, fuzzy
 msgid "scepter of fire"
-msgstr ""
+msgstr "Disparar o _Flash"
 
 #. [unit_type]: id=Saurian Slickskin, race=lizard
 #: Tale_of_a_Mage/units/Saurian_Slickskin.cfg:5
+#, fuzzy
 msgid "Saurian Slickskin"
-msgstr ""
+msgstr "Réptil Fanático"
 
 #. [unit_type]: id=Saurian Slickskin, race=lizard
 #: Tale_of_a_Mage/units/Saurian_Slickskin.cfg:18
@@ -6563,19 +6968,22 @@ msgstr ""
 #. [attack]: type=blade
 #: Tale_of_a_Mage/units/Saurian_Slickskin.cfg:85
 #: Tale_of_a_Mage/units/Saurian_Swampstalker.cfg:86
+#, fuzzy
 msgid "knife"
-msgstr ""
+msgstr "punhal"
 
 #. [attack]: type=pierce
 #: Tale_of_a_Mage/units/Saurian_Slickskin.cfg:97
 #: Tale_of_a_Mage/units/Saurian_Swampstalker.cfg:98
+#, fuzzy
 msgid "throwing knives"
-msgstr ""
+msgstr "Punhal de arremesso"
 
 #. [unit_type]: id=Saurian Swampstalker, race=lizard
 #: Tale_of_a_Mage/units/Saurian_Swampstalker.cfg:5
+#, fuzzy
 msgid "Saurian Swampstalker"
-msgstr ""
+msgstr "Réptil Fanático"
 
 #. [unit_type]: id=Saurian Swampstalker, race=lizard
 #: Tale_of_a_Mage/units/Saurian_Swampstalker.cfg:19
@@ -6586,8 +6994,9 @@ msgstr ""
 
 #. [unit_type]: id=Wounded Lieutenant, race=human
 #: Tale_of_a_Mage/units/Wounded_Lieutenant.cfg:5
+#, fuzzy
 msgid "Lieutenant"
-msgstr ""
+msgstr "Tenente"
 
 #. [unit_type]: id=Wounded Lieutenant, race=human
 #: Tale_of_a_Mage/units/Wounded_Lieutenant.cfg:16
@@ -6598,20 +7007,23 @@ msgstr ""
 #: Tale_of_a_Mage/utils/cages.cfg:26 Tale_of_a_Mage/utils/cages.cfg:54
 #: Tale_of_a_Mage/utils/cages.cfg:84 Tale_of_a_Mage/utils/cages.cfg:114
 #: Tale_of_a_Mage/utils/cages.cfg:145 Tale_of_a_Mage/utils/cages.cfg:177
+#, fuzzy
 msgid "Grateful Unit"
-msgstr ""
+msgstr "Unidade de velocidade"
 
 #. [message]: speaker=narrator
 #: Tale_of_a_Mage/utils/cages.cfg:27
+#, fuzzy
 msgid "Thank you for freeing me!"
-msgstr ""
+msgstr "Obrigado por libertar-me."
 
 #. [message]: speaker=narrator
 #: Tale_of_a_Mage/utils/cages.cfg:55 Tale_of_a_Mage/utils/cages.cfg:85
 #: Tale_of_a_Mage/utils/cages.cfg:115 Tale_of_a_Mage/utils/cages.cfg:146
 #: Tale_of_a_Mage/utils/cages.cfg:178
+#, fuzzy
 msgid "Thank you for freeing us!"
-msgstr ""
+msgstr "Obrigado pela tua gentileza."
 
 #. [message]: speaker=unit
 #: Tale_of_a_Mage/utils/deaths.cfg:12
@@ -6630,78 +7042,88 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: Tale_of_a_Mage/utils/deaths.cfg:54
+#, fuzzy
 msgid "All is in vain..."
-msgstr ""
+msgstr "não está nas últimas"
 
 #. [message]: speaker=unit
 #: Tale_of_a_Mage/utils/deaths.cfg:68
+#, fuzzy
 msgid "I have lived such a long time..."
-msgstr ""
+msgstr "Hora no Formato Extenso"
 
 #. [message]: speaker=Leogwyn
 #: Tale_of_a_Mage/utils/deaths.cfg:83
 msgid "%#*!@"
-msgstr ""
+msgstr "%#*!@"
 
 #. [message]: speaker=unit
 #: Tale_of_a_Mage/utils/deaths.cfg:127
 msgid "%*(#^#!@$*#@&$(!"
-msgstr ""
+msgstr "%*(#^#!@$*#@&$(!"
 
 #. [message]: speaker=unit
 #: Tale_of_a_Mage/utils/deaths.cfg:141
 msgid "Uhh..."
-msgstr ""
+msgstr "Uhh..."
 
 #. [message]: speaker=Dillon
 #: Tale_of_a_Mage/utils/deaths.cfg:159 Tale_of_a_Mage/utils/deaths.cfg:289
+#, fuzzy
 msgid "This can't possibly be the end..."
-msgstr ""
+msgstr "Isto vai terminar o jogo actual!"
 
 #. [message]: speaker=Lhyron
 #: Tale_of_a_Mage/utils/deaths.cfg:173 Tale_of_a_Mage/utils/deaths.cfg:303
+#, fuzzy
 msgid "Why? WHY?"
-msgstr ""
+msgstr "Porque?"
 
 #. [message]: speaker=Gilder
 #: Tale_of_a_Mage/utils/deaths.cfg:201 Tale_of_a_Mage/utils/deaths.cfg:328
+#, fuzzy
 msgid "After all this..."
-msgstr ""
+msgstr "...depois deste."
 
 #. [message]: speaker=Arand
 #: Tale_of_a_Mage/utils/deaths.cfg:215 Tale_of_a_Mage/utils/deaths.cfg:339
+#, fuzzy
 msgid "No! The kingdom needs me!"
-msgstr ""
+msgstr "Não!!! Não me matem!"
 
 #. [message]: speaker=Konrad
 #: Tale_of_a_Mage/utils/deaths.cfg:229 Tale_of_a_Mage/utils/deaths.cfg:353
+#, fuzzy
 msgid "Thus the kingdom falls."
-msgstr ""
+msgstr "Cataratas do Rio Thief"
 
 #. [message]: speaker=Li'sar
 #: Tale_of_a_Mage/utils/deaths.cfg:243
+#, fuzzy
 msgid "The Scepter...I have failed...."
-msgstr ""
+msgstr "Comando falhado: %s"
 
 #. [message]: speaker=Ana'sar
 #: Tale_of_a_Mage/utils/deaths.cfg:257 Tale_of_a_Mage/utils/deaths.cfg:381
 msgid "Death flies on silent wings..."
-msgstr ""
+msgstr "A Morte vem em passos silenciosos..."
 
 #. [message]: speaker=Eldaric
 #: Tale_of_a_Mage/utils/deaths.cfg:271 Tale_of_a_Mage/utils/deaths.cfg:395
 msgid "But...I could have been a hero..."
-msgstr ""
+msgstr "Mas... Poderia ser um herói..."
 
 #. [message]: speaker=Li'sar
 #: Tale_of_a_Mage/utils/deaths.cfg:367
+#, fuzzy
 msgid "The Scepter...I have failed..."
-msgstr ""
+msgstr "Comando falhado: %s"
 
 #. [object]: id=lightning_staff
 #: Tale_of_a_Mage/utils/lightning.cfg:24
+#, fuzzy
 msgid "Lightning Staff"
-msgstr ""
+msgstr "bastão do trovão"
 
 #. [object]: id=lightning_staff
 #: Tale_of_a_Mage/utils/lightning.cfg:27
@@ -6712,23 +7134,27 @@ msgstr ""
 
 #. [object]: id=lightning_staff
 #: Tale_of_a_Mage/utils/lightning.cfg:28
+#, fuzzy
 msgid "Only magi can wield this staff."
-msgstr ""
+msgstr "Apenas um mago poderoso pode empunhar isto."
 
 #. [effect]: type=fire
 #: Tale_of_a_Mage/utils/lightning.cfg:43
+#, fuzzy
 msgid "lightning"
-msgstr ""
+msgstr "raio"
 
 #. [trait]: id=strong_willed
 #: Tale_of_a_Mage/utils/traits_and_abilities.cfg:6
+#, fuzzy
 msgid "strong willed"
-msgstr ""
+msgstr "forte"
 
 #. [trait]: id=strong_willed
 #: Tale_of_a_Mage/utils/traits_and_abilities.cfg:7
+#, fuzzy
 msgid "female^strongwilled"
-msgstr ""
+msgstr "atordoada"
 
 #. [trait]: id=strong_willed
 #: Tale_of_a_Mage/utils/traits_and_abilities.cfg:8
